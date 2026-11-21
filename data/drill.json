@@ -5105,6 +5105,35 @@
       "supported": true
     }
   ],
+  "next_layout": [
+    {
+      "cabinet": "S1",
+      "layout": "V2",
+      "date": "2026-09-02",
+      "from_hour": 9,
+      "to_hour": 17,
+      "gross_cm2": 9000,
+      "exclusion_cm2": 1000
+    },
+    {
+      "cabinet": "S2",
+      "layout": "V2",
+      "date": "2026-09-02",
+      "from_hour": 9,
+      "to_hour": 17,
+      "gross_cm2": 9000,
+      "exclusion_cm2": 2000
+    },
+    {
+      "cabinet": "S3",
+      "layout": "V2",
+      "date": "2026-09-02",
+      "from_hour": 9,
+      "to_hour": 17,
+      "gross_cm2": 12000,
+      "exclusion_cm2": 2000
+    }
+  ],
   "promise": [
     {
       "id": "A1",
@@ -5138,6 +5167,36 @@
     }
   ],
   "candidate": [
+    {
+      "plan": "P0",
+      "cabinet": "S1",
+      "studio": "甲",
+      "date": "2026-09-02",
+      "from_hour": 9,
+      "to_hour": 17,
+      "cm2": 4200,
+      "fee": 3600
+    },
+    {
+      "plan": "P0",
+      "cabinet": "S2",
+      "studio": "丙",
+      "date": "2026-09-02",
+      "from_hour": 9,
+      "to_hour": 17,
+      "cm2": 5400,
+      "fee": 3800
+    },
+    {
+      "plan": "P0",
+      "cabinet": "S3",
+      "studio": "乙",
+      "date": "2026-09-02",
+      "from_hour": 9,
+      "to_hour": 17,
+      "cm2": 4100,
+      "fee": 4200
+    },
     {
       "plan": "P1",
       "cabinet": "S1",

@@ -11,7 +11,7 @@ class DrillDataTest(unittest.TestCase):
         cls.data = json.loads(source.read_text(encoding='utf-8'))
 
     def test_schema(self):
-        expected = {'operation': ('id', 'cabinet', 'layout', 'date', 'from_hour', 'to_hour', 'gross_cm2', 'exclusion_cm2'), 'shares': ('operation', 'studio', 'from_hour', 'to_hour', 'confirmed_percent'), 'display': ('operation', 'sku', 'studio', 'from_hour', 'to_hour', 'visitors'), 'take': ('id', 'operation', 'sku', 'hour', 'date'), 'checkout': ('id', 'take', 'sku', 'cash_desk', 'date', 'net'), 'holds': ('cabinet', 'date', 'from_hour', 'to_hour', 'kind', 'scheduled_on'), 'bridges': ('old_cab', 'new_cab', 'supported'), 'promise': ('id', 'studio', 'cabinet', 'date', 'from_hour', 'to_hour', 'min_cm2_hour', 'confirmed_on'), 'candidate': ('plan', 'cabinet', 'studio', 'date', 'from_hour', 'to_hour', 'cm2', 'fee')}
+        expected = {'operation': ('id', 'cabinet', 'layout', 'date', 'from_hour', 'to_hour', 'gross_cm2', 'exclusion_cm2'), 'shares': ('operation', 'studio', 'from_hour', 'to_hour', 'confirmed_percent'), 'display': ('operation', 'sku', 'studio', 'from_hour', 'to_hour', 'visitors'), 'take': ('id', 'operation', 'sku', 'hour', 'date'), 'checkout': ('id', 'take', 'sku', 'cash_desk', 'date', 'net'), 'holds': ('cabinet', 'date', 'from_hour', 'to_hour', 'kind', 'scheduled_on'), 'bridges': ('old_cab', 'new_cab', 'supported'), 'next_layout': ('cabinet', 'layout', 'date', 'from_hour', 'to_hour', 'gross_cm2', 'exclusion_cm2'), 'promise': ('id', 'studio', 'cabinet', 'date', 'from_hour', 'to_hour', 'min_cm2_hour', 'confirmed_on'), 'candidate': ('plan', 'cabinet', 'studio', 'date', 'from_hour', 'to_hour', 'cm2', 'fee')}
         self.assertEqual(set(self.data), set(expected))
         for name, fields in expected.items():
             with self.subTest(table=name):
@@ -27,3 +27,4 @@ class DrillDataTest(unittest.TestCase):
         self.assertTrue(any(row['take'] is None for row in self.data['checkout']))
         self.assertTrue(any(operations[picks[row['take']]['operation']]['cabinet'] != row['cash_desk'] for row in self.data['checkout'] if row['take']))
         self.assertGreater(sum(row['old_cab'] == 'S2' and not row['supported'] for row in self.data['bridges']), 1)
+        self.assertEqual({row['cabinet'] for row in self.data['candidate'] if row['plan'] == 'P0'}, {row['cabinet'] for row in self.data['next_layout']})
