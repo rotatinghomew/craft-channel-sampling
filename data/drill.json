@@ -1,0 +1,5202 @@
+{
+  "operation": [
+    {
+      "id": "0-S1",
+      "cabinet": "S1",
+      "layout": "V1",
+      "date": "2026-08-01",
+      "from_hour": 9,
+      "to_hour": 17,
+      "gross_cm2": 9000,
+      "exclusion_cm2": 1000
+    },
+    {
+      "id": "0-S2",
+      "cabinet": "S2",
+      "layout": "V1",
+      "date": "2026-08-01",
+      "from_hour": 9,
+      "to_hour": 17,
+      "gross_cm2": 9000,
+      "exclusion_cm2": 2000
+    },
+    {
+      "id": "0-S3",
+      "cabinet": "S3",
+      "layout": "V1",
+      "date": "2026-08-01",
+      "from_hour": 9,
+      "to_hour": 17,
+      "gross_cm2": 12000,
+      "exclusion_cm2": 2000
+    },
+    {
+      "id": "1-S1",
+      "cabinet": "S1",
+      "layout": "V1",
+      "date": "2026-08-02",
+      "from_hour": 9,
+      "to_hour": 17,
+      "gross_cm2": 9000,
+      "exclusion_cm2": 1000
+    },
+    {
+      "id": "1-S2",
+      "cabinet": "S2",
+      "layout": "V1",
+      "date": "2026-08-02",
+      "from_hour": 9,
+      "to_hour": 17,
+      "gross_cm2": 9000,
+      "exclusion_cm2": 2000
+    },
+    {
+      "id": "1-S3",
+      "cabinet": "S3",
+      "layout": "V1",
+      "date": "2026-08-02",
+      "from_hour": 9,
+      "to_hour": 17,
+      "gross_cm2": 12000,
+      "exclusion_cm2": 2000
+    },
+    {
+      "id": "2-S1",
+      "cabinet": "S1",
+      "layout": "V1",
+      "date": "2026-08-03",
+      "from_hour": 9,
+      "to_hour": 17,
+      "gross_cm2": 9000,
+      "exclusion_cm2": 1000
+    },
+    {
+      "id": "2-S2",
+      "cabinet": "S2",
+      "layout": "V1",
+      "date": "2026-08-03",
+      "from_hour": 9,
+      "to_hour": 17,
+      "gross_cm2": 9000,
+      "exclusion_cm2": 2000
+    },
+    {
+      "id": "2-S3",
+      "cabinet": "S3",
+      "layout": "V1",
+      "date": "2026-08-03",
+      "from_hour": 9,
+      "to_hour": 17,
+      "gross_cm2": 12000,
+      "exclusion_cm2": 2000
+    },
+    {
+      "id": "3-S1",
+      "cabinet": "S1",
+      "layout": "V1",
+      "date": "2026-08-04",
+      "from_hour": 9,
+      "to_hour": 17,
+      "gross_cm2": 9000,
+      "exclusion_cm2": 1000
+    },
+    {
+      "id": "3-S2",
+      "cabinet": "S2",
+      "layout": "V1",
+      "date": "2026-08-04",
+      "from_hour": 9,
+      "to_hour": 17,
+      "gross_cm2": 9000,
+      "exclusion_cm2": 2000
+    },
+    {
+      "id": "3-S3",
+      "cabinet": "S3",
+      "layout": "V1",
+      "date": "2026-08-04",
+      "from_hour": 9,
+      "to_hour": 17,
+      "gross_cm2": 12000,
+      "exclusion_cm2": 2000
+    },
+    {
+      "id": "4-S1",
+      "cabinet": "S1",
+      "layout": "V1",
+      "date": "2026-08-05",
+      "from_hour": 9,
+      "to_hour": 17,
+      "gross_cm2": 9000,
+      "exclusion_cm2": 1000
+    },
+    {
+      "id": "4-S2",
+      "cabinet": "S2",
+      "layout": "V1",
+      "date": "2026-08-05",
+      "from_hour": 9,
+      "to_hour": 17,
+      "gross_cm2": 9000,
+      "exclusion_cm2": 2000
+    },
+    {
+      "id": "4-S3",
+      "cabinet": "S3",
+      "layout": "V1",
+      "date": "2026-08-05",
+      "from_hour": 9,
+      "to_hour": 17,
+      "gross_cm2": 12000,
+      "exclusion_cm2": 2000
+    },
+    {
+      "id": "5-S1",
+      "cabinet": "S1",
+      "layout": "V1",
+      "date": "2026-08-06",
+      "from_hour": 9,
+      "to_hour": 17,
+      "gross_cm2": 9000,
+      "exclusion_cm2": 1000
+    },
+    {
+      "id": "5-S2",
+      "cabinet": "S2",
+      "layout": "V1",
+      "date": "2026-08-06",
+      "from_hour": 9,
+      "to_hour": 17,
+      "gross_cm2": 9000,
+      "exclusion_cm2": 2000
+    },
+    {
+      "id": "5-S3",
+      "cabinet": "S3",
+      "layout": "V1",
+      "date": "2026-08-06",
+      "from_hour": 9,
+      "to_hour": 17,
+      "gross_cm2": 12000,
+      "exclusion_cm2": 2000
+    },
+    {
+      "id": "6-S1",
+      "cabinet": "S1",
+      "layout": "V1",
+      "date": "2026-08-07",
+      "from_hour": 9,
+      "to_hour": 17,
+      "gross_cm2": 9000,
+      "exclusion_cm2": 1000
+    },
+    {
+      "id": "6-S2",
+      "cabinet": "S2",
+      "layout": "V1",
+      "date": "2026-08-07",
+      "from_hour": 9,
+      "to_hour": 17,
+      "gross_cm2": 9000,
+      "exclusion_cm2": 2000
+    },
+    {
+      "id": "6-S3",
+      "cabinet": "S3",
+      "layout": "V1",
+      "date": "2026-08-07",
+      "from_hour": 9,
+      "to_hour": 17,
+      "gross_cm2": 12000,
+      "exclusion_cm2": 2000
+    },
+    {
+      "id": "7-S1",
+      "cabinet": "S1",
+      "layout": "V1",
+      "date": "2026-08-08",
+      "from_hour": 9,
+      "to_hour": 17,
+      "gross_cm2": 9000,
+      "exclusion_cm2": 1000
+    },
+    {
+      "id": "7-S2",
+      "cabinet": "S2",
+      "layout": "V1",
+      "date": "2026-08-08",
+      "from_hour": 9,
+      "to_hour": 17,
+      "gross_cm2": 9000,
+      "exclusion_cm2": 2000
+    },
+    {
+      "id": "7-S3",
+      "cabinet": "S3",
+      "layout": "V1",
+      "date": "2026-08-08",
+      "from_hour": 9,
+      "to_hour": 17,
+      "gross_cm2": 12000,
+      "exclusion_cm2": 2000
+    },
+    {
+      "id": "8-S1",
+      "cabinet": "S1",
+      "layout": "V1",
+      "date": "2026-08-09",
+      "from_hour": 9,
+      "to_hour": 17,
+      "gross_cm2": 9000,
+      "exclusion_cm2": 1000
+    },
+    {
+      "id": "8-S2",
+      "cabinet": "S2",
+      "layout": "V1",
+      "date": "2026-08-09",
+      "from_hour": 9,
+      "to_hour": 17,
+      "gross_cm2": 9000,
+      "exclusion_cm2": 2000
+    },
+    {
+      "id": "8-S3",
+      "cabinet": "S3",
+      "layout": "V1",
+      "date": "2026-08-09",
+      "from_hour": 9,
+      "to_hour": 17,
+      "gross_cm2": 12000,
+      "exclusion_cm2": 2000
+    },
+    {
+      "id": "9-S1",
+      "cabinet": "S1",
+      "layout": "V1",
+      "date": "2026-08-10",
+      "from_hour": 9,
+      "to_hour": 17,
+      "gross_cm2": 9000,
+      "exclusion_cm2": 1000
+    },
+    {
+      "id": "9-S2",
+      "cabinet": "S2",
+      "layout": "V1",
+      "date": "2026-08-10",
+      "from_hour": 9,
+      "to_hour": 17,
+      "gross_cm2": 9000,
+      "exclusion_cm2": 2000
+    },
+    {
+      "id": "9-S3",
+      "cabinet": "S3",
+      "layout": "V1",
+      "date": "2026-08-10",
+      "from_hour": 9,
+      "to_hour": 17,
+      "gross_cm2": 12000,
+      "exclusion_cm2": 2000
+    },
+    {
+      "id": "10-S1",
+      "cabinet": "S1",
+      "layout": "V1",
+      "date": "2026-08-11",
+      "from_hour": 9,
+      "to_hour": 17,
+      "gross_cm2": 9000,
+      "exclusion_cm2": 1000
+    },
+    {
+      "id": "10-S2",
+      "cabinet": "S2",
+      "layout": "V1",
+      "date": "2026-08-11",
+      "from_hour": 9,
+      "to_hour": 17,
+      "gross_cm2": 9000,
+      "exclusion_cm2": 2000
+    },
+    {
+      "id": "10-S3",
+      "cabinet": "S3",
+      "layout": "V1",
+      "date": "2026-08-11",
+      "from_hour": 9,
+      "to_hour": 17,
+      "gross_cm2": 12000,
+      "exclusion_cm2": 2000
+    },
+    {
+      "id": "11-S1",
+      "cabinet": "S1",
+      "layout": "V1",
+      "date": "2026-08-12",
+      "from_hour": 9,
+      "to_hour": 17,
+      "gross_cm2": 9000,
+      "exclusion_cm2": 1000
+    },
+    {
+      "id": "11-S2",
+      "cabinet": "S2",
+      "layout": "V1",
+      "date": "2026-08-12",
+      "from_hour": 9,
+      "to_hour": 17,
+      "gross_cm2": 9000,
+      "exclusion_cm2": 2000
+    },
+    {
+      "id": "11-S3",
+      "cabinet": "S3",
+      "layout": "V1",
+      "date": "2026-08-12",
+      "from_hour": 9,
+      "to_hour": 17,
+      "gross_cm2": 12000,
+      "exclusion_cm2": 2000
+    },
+    {
+      "id": "12-S1",
+      "cabinet": "S1",
+      "layout": "V1",
+      "date": "2026-08-13",
+      "from_hour": 9,
+      "to_hour": 17,
+      "gross_cm2": 9000,
+      "exclusion_cm2": 1000
+    },
+    {
+      "id": "12-S2",
+      "cabinet": "S2",
+      "layout": "V1",
+      "date": "2026-08-13",
+      "from_hour": 9,
+      "to_hour": 17,
+      "gross_cm2": 9000,
+      "exclusion_cm2": 2000
+    },
+    {
+      "id": "12-S3",
+      "cabinet": "S3",
+      "layout": "V1",
+      "date": "2026-08-13",
+      "from_hour": 9,
+      "to_hour": 17,
+      "gross_cm2": 12000,
+      "exclusion_cm2": 2000
+    },
+    {
+      "id": "13-S1",
+      "cabinet": "S1",
+      "layout": "V1",
+      "date": "2026-08-14",
+      "from_hour": 9,
+      "to_hour": 17,
+      "gross_cm2": 9000,
+      "exclusion_cm2": 1000
+    },
+    {
+      "id": "13-S2",
+      "cabinet": "S2",
+      "layout": "V1",
+      "date": "2026-08-14",
+      "from_hour": 9,
+      "to_hour": 17,
+      "gross_cm2": 9000,
+      "exclusion_cm2": 2000
+    },
+    {
+      "id": "13-S3",
+      "cabinet": "S3",
+      "layout": "V1",
+      "date": "2026-08-14",
+      "from_hour": 9,
+      "to_hour": 17,
+      "gross_cm2": 12000,
+      "exclusion_cm2": 2000
+    },
+    {
+      "id": "14-S1",
+      "cabinet": "S1",
+      "layout": "V2",
+      "date": "2026-08-15",
+      "from_hour": 9,
+      "to_hour": 17,
+      "gross_cm2": 9000,
+      "exclusion_cm2": 1000
+    },
+    {
+      "id": "14-S2",
+      "cabinet": "S2",
+      "layout": "V2",
+      "date": "2026-08-15",
+      "from_hour": 9,
+      "to_hour": 17,
+      "gross_cm2": 9000,
+      "exclusion_cm2": 2000
+    },
+    {
+      "id": "14-S3",
+      "cabinet": "S3",
+      "layout": "V2",
+      "date": "2026-08-15",
+      "from_hour": 9,
+      "to_hour": 17,
+      "gross_cm2": 12000,
+      "exclusion_cm2": 2000
+    },
+    {
+      "id": "15-S1",
+      "cabinet": "S1",
+      "layout": "V2",
+      "date": "2026-08-16",
+      "from_hour": 9,
+      "to_hour": 17,
+      "gross_cm2": 9000,
+      "exclusion_cm2": 1000
+    },
+    {
+      "id": "15-S2",
+      "cabinet": "S2",
+      "layout": "V2",
+      "date": "2026-08-16",
+      "from_hour": 9,
+      "to_hour": 17,
+      "gross_cm2": 9000,
+      "exclusion_cm2": 2000
+    },
+    {
+      "id": "15-S3",
+      "cabinet": "S3",
+      "layout": "V2",
+      "date": "2026-08-16",
+      "from_hour": 9,
+      "to_hour": 17,
+      "gross_cm2": 12000,
+      "exclusion_cm2": 2000
+    },
+    {
+      "id": "16-S1",
+      "cabinet": "S1",
+      "layout": "V2",
+      "date": "2026-08-17",
+      "from_hour": 9,
+      "to_hour": 17,
+      "gross_cm2": 9000,
+      "exclusion_cm2": 1000
+    },
+    {
+      "id": "16-S2",
+      "cabinet": "S2",
+      "layout": "V2",
+      "date": "2026-08-17",
+      "from_hour": 9,
+      "to_hour": 17,
+      "gross_cm2": 9000,
+      "exclusion_cm2": 2000
+    },
+    {
+      "id": "16-S3",
+      "cabinet": "S3",
+      "layout": "V2",
+      "date": "2026-08-17",
+      "from_hour": 9,
+      "to_hour": 17,
+      "gross_cm2": 12000,
+      "exclusion_cm2": 2000
+    },
+    {
+      "id": "17-S1",
+      "cabinet": "S1",
+      "layout": "V2",
+      "date": "2026-08-18",
+      "from_hour": 9,
+      "to_hour": 17,
+      "gross_cm2": 9000,
+      "exclusion_cm2": 1000
+    },
+    {
+      "id": "17-S2",
+      "cabinet": "S2",
+      "layout": "V2",
+      "date": "2026-08-18",
+      "from_hour": 9,
+      "to_hour": 17,
+      "gross_cm2": 9000,
+      "exclusion_cm2": 2000
+    },
+    {
+      "id": "17-S3",
+      "cabinet": "S3",
+      "layout": "V2",
+      "date": "2026-08-18",
+      "from_hour": 9,
+      "to_hour": 17,
+      "gross_cm2": 12000,
+      "exclusion_cm2": 2000
+    },
+    {
+      "id": "18-S1",
+      "cabinet": "S1",
+      "layout": "V2",
+      "date": "2026-08-19",
+      "from_hour": 9,
+      "to_hour": 17,
+      "gross_cm2": 9000,
+      "exclusion_cm2": 1000
+    },
+    {
+      "id": "18-S2",
+      "cabinet": "S2",
+      "layout": "V2",
+      "date": "2026-08-19",
+      "from_hour": 9,
+      "to_hour": 17,
+      "gross_cm2": 9000,
+      "exclusion_cm2": 2000
+    },
+    {
+      "id": "18-S3",
+      "cabinet": "S3",
+      "layout": "V2",
+      "date": "2026-08-19",
+      "from_hour": 9,
+      "to_hour": 17,
+      "gross_cm2": 12000,
+      "exclusion_cm2": 2000
+    },
+    {
+      "id": "19-S1",
+      "cabinet": "S1",
+      "layout": "V2",
+      "date": "2026-08-20",
+      "from_hour": 9,
+      "to_hour": 17,
+      "gross_cm2": 9000,
+      "exclusion_cm2": 1000
+    },
+    {
+      "id": "19-S2",
+      "cabinet": "S2",
+      "layout": "V2",
+      "date": "2026-08-20",
+      "from_hour": 9,
+      "to_hour": 17,
+      "gross_cm2": 9000,
+      "exclusion_cm2": 2000
+    },
+    {
+      "id": "19-S3",
+      "cabinet": "S3",
+      "layout": "V2",
+      "date": "2026-08-20",
+      "from_hour": 9,
+      "to_hour": 17,
+      "gross_cm2": 12000,
+      "exclusion_cm2": 2000
+    },
+    {
+      "id": "20-S1",
+      "cabinet": "S1",
+      "layout": "V2",
+      "date": "2026-08-21",
+      "from_hour": 9,
+      "to_hour": 17,
+      "gross_cm2": 9000,
+      "exclusion_cm2": 1000
+    },
+    {
+      "id": "20-S2",
+      "cabinet": "S2",
+      "layout": "V2",
+      "date": "2026-08-21",
+      "from_hour": 9,
+      "to_hour": 17,
+      "gross_cm2": 9000,
+      "exclusion_cm2": 2000
+    },
+    {
+      "id": "20-S3",
+      "cabinet": "S3",
+      "layout": "V2",
+      "date": "2026-08-21",
+      "from_hour": 9,
+      "to_hour": 17,
+      "gross_cm2": 12000,
+      "exclusion_cm2": 2000
+    },
+    {
+      "id": "21-S1",
+      "cabinet": "S1",
+      "layout": "V2",
+      "date": "2026-08-22",
+      "from_hour": 9,
+      "to_hour": 17,
+      "gross_cm2": 9000,
+      "exclusion_cm2": 1000
+    },
+    {
+      "id": "21-S2",
+      "cabinet": "S2",
+      "layout": "V2",
+      "date": "2026-08-22",
+      "from_hour": 9,
+      "to_hour": 17,
+      "gross_cm2": 9000,
+      "exclusion_cm2": 2000
+    },
+    {
+      "id": "21-S3",
+      "cabinet": "S3",
+      "layout": "V2",
+      "date": "2026-08-22",
+      "from_hour": 9,
+      "to_hour": 17,
+      "gross_cm2": 12000,
+      "exclusion_cm2": 2000
+    },
+    {
+      "id": "22-S1",
+      "cabinet": "S1",
+      "layout": "V2",
+      "date": "2026-08-23",
+      "from_hour": 9,
+      "to_hour": 17,
+      "gross_cm2": 9000,
+      "exclusion_cm2": 1000
+    },
+    {
+      "id": "22-S2",
+      "cabinet": "S2",
+      "layout": "V2",
+      "date": "2026-08-23",
+      "from_hour": 9,
+      "to_hour": 17,
+      "gross_cm2": 9000,
+      "exclusion_cm2": 2000
+    },
+    {
+      "id": "22-S3",
+      "cabinet": "S3",
+      "layout": "V2",
+      "date": "2026-08-23",
+      "from_hour": 9,
+      "to_hour": 17,
+      "gross_cm2": 12000,
+      "exclusion_cm2": 2000
+    },
+    {
+      "id": "23-S1",
+      "cabinet": "S1",
+      "layout": "V2",
+      "date": "2026-08-24",
+      "from_hour": 9,
+      "to_hour": 17,
+      "gross_cm2": 9000,
+      "exclusion_cm2": 1000
+    },
+    {
+      "id": "23-S2",
+      "cabinet": "S2",
+      "layout": "V2",
+      "date": "2026-08-24",
+      "from_hour": 9,
+      "to_hour": 17,
+      "gross_cm2": 9000,
+      "exclusion_cm2": 2000
+    },
+    {
+      "id": "23-S3",
+      "cabinet": "S3",
+      "layout": "V2",
+      "date": "2026-08-24",
+      "from_hour": 9,
+      "to_hour": 17,
+      "gross_cm2": 12000,
+      "exclusion_cm2": 2000
+    },
+    {
+      "id": "24-S1",
+      "cabinet": "S1",
+      "layout": "V2",
+      "date": "2026-08-25",
+      "from_hour": 9,
+      "to_hour": 17,
+      "gross_cm2": 9000,
+      "exclusion_cm2": 1000
+    },
+    {
+      "id": "24-S2",
+      "cabinet": "S2",
+      "layout": "V2",
+      "date": "2026-08-25",
+      "from_hour": 9,
+      "to_hour": 17,
+      "gross_cm2": 9000,
+      "exclusion_cm2": 2000
+    },
+    {
+      "id": "24-S3",
+      "cabinet": "S3",
+      "layout": "V2",
+      "date": "2026-08-25",
+      "from_hour": 9,
+      "to_hour": 17,
+      "gross_cm2": 12000,
+      "exclusion_cm2": 2000
+    },
+    {
+      "id": "25-S1",
+      "cabinet": "S1",
+      "layout": "V2",
+      "date": "2026-08-26",
+      "from_hour": 9,
+      "to_hour": 17,
+      "gross_cm2": 9000,
+      "exclusion_cm2": 1000
+    },
+    {
+      "id": "25-S2",
+      "cabinet": "S2",
+      "layout": "V2",
+      "date": "2026-08-26",
+      "from_hour": 9,
+      "to_hour": 17,
+      "gross_cm2": 9000,
+      "exclusion_cm2": 2000
+    },
+    {
+      "id": "25-S3",
+      "cabinet": "S3",
+      "layout": "V2",
+      "date": "2026-08-26",
+      "from_hour": 9,
+      "to_hour": 17,
+      "gross_cm2": 12000,
+      "exclusion_cm2": 2000
+    },
+    {
+      "id": "26-S1",
+      "cabinet": "S1",
+      "layout": "V2",
+      "date": "2026-08-27",
+      "from_hour": 9,
+      "to_hour": 17,
+      "gross_cm2": 9000,
+      "exclusion_cm2": 1000
+    },
+    {
+      "id": "26-S2",
+      "cabinet": "S2",
+      "layout": "V2",
+      "date": "2026-08-27",
+      "from_hour": 9,
+      "to_hour": 17,
+      "gross_cm2": 9000,
+      "exclusion_cm2": 2000
+    },
+    {
+      "id": "26-S3",
+      "cabinet": "S3",
+      "layout": "V2",
+      "date": "2026-08-27",
+      "from_hour": 9,
+      "to_hour": 17,
+      "gross_cm2": 12000,
+      "exclusion_cm2": 2000
+    },
+    {
+      "id": "27-S1",
+      "cabinet": "S1",
+      "layout": "V2",
+      "date": "2026-08-28",
+      "from_hour": 9,
+      "to_hour": 17,
+      "gross_cm2": 9000,
+      "exclusion_cm2": 1000
+    },
+    {
+      "id": "27-S2",
+      "cabinet": "S2",
+      "layout": "V2",
+      "date": "2026-08-28",
+      "from_hour": 9,
+      "to_hour": 17,
+      "gross_cm2": 9000,
+      "exclusion_cm2": 2000
+    },
+    {
+      "id": "27-S3",
+      "cabinet": "S3",
+      "layout": "V2",
+      "date": "2026-08-28",
+      "from_hour": 9,
+      "to_hour": 17,
+      "gross_cm2": 12000,
+      "exclusion_cm2": 2000
+    }
+  ],
+  "shares": [
+    {
+      "operation": "0-S1",
+      "studio": "甲",
+      "from_hour": 9,
+      "to_hour": 17,
+      "confirmed_percent": 60
+    },
+    {
+      "operation": "0-S1",
+      "studio": "乙",
+      "from_hour": 9,
+      "to_hour": 17,
+      "confirmed_percent": 40
+    },
+    {
+      "operation": "0-S2",
+      "studio": "丙",
+      "from_hour": 9,
+      "to_hour": 17,
+      "confirmed_percent": 100
+    },
+    {
+      "operation": "0-S3",
+      "studio": "乙",
+      "from_hour": 9,
+      "to_hour": 17,
+      "confirmed_percent": 100
+    },
+    {
+      "operation": "1-S1",
+      "studio": "甲",
+      "from_hour": 9,
+      "to_hour": 17,
+      "confirmed_percent": 60
+    },
+    {
+      "operation": "1-S1",
+      "studio": "乙",
+      "from_hour": 9,
+      "to_hour": 17,
+      "confirmed_percent": 40
+    },
+    {
+      "operation": "1-S2",
+      "studio": "丙",
+      "from_hour": 9,
+      "to_hour": 17,
+      "confirmed_percent": 100
+    },
+    {
+      "operation": "1-S3",
+      "studio": "乙",
+      "from_hour": 9,
+      "to_hour": 17,
+      "confirmed_percent": 100
+    },
+    {
+      "operation": "2-S1",
+      "studio": "甲",
+      "from_hour": 9,
+      "to_hour": 17,
+      "confirmed_percent": 60
+    },
+    {
+      "operation": "2-S1",
+      "studio": "乙",
+      "from_hour": 9,
+      "to_hour": 17,
+      "confirmed_percent": 40
+    },
+    {
+      "operation": "2-S2",
+      "studio": "丙",
+      "from_hour": 9,
+      "to_hour": 17,
+      "confirmed_percent": 100
+    },
+    {
+      "operation": "2-S3",
+      "studio": "乙",
+      "from_hour": 9,
+      "to_hour": 17,
+      "confirmed_percent": 100
+    },
+    {
+      "operation": "3-S1",
+      "studio": "甲",
+      "from_hour": 9,
+      "to_hour": 17,
+      "confirmed_percent": 60
+    },
+    {
+      "operation": "3-S1",
+      "studio": "乙",
+      "from_hour": 9,
+      "to_hour": 17,
+      "confirmed_percent": 40
+    },
+    {
+      "operation": "3-S2",
+      "studio": "丙",
+      "from_hour": 9,
+      "to_hour": 17,
+      "confirmed_percent": 100
+    },
+    {
+      "operation": "3-S3",
+      "studio": "乙",
+      "from_hour": 9,
+      "to_hour": 17,
+      "confirmed_percent": 100
+    },
+    {
+      "operation": "4-S1",
+      "studio": "甲",
+      "from_hour": 9,
+      "to_hour": 17,
+      "confirmed_percent": 60
+    },
+    {
+      "operation": "4-S1",
+      "studio": "乙",
+      "from_hour": 9,
+      "to_hour": 17,
+      "confirmed_percent": 40
+    },
+    {
+      "operation": "4-S2",
+      "studio": "丙",
+      "from_hour": 9,
+      "to_hour": 17,
+      "confirmed_percent": 100
+    },
+    {
+      "operation": "4-S3",
+      "studio": "乙",
+      "from_hour": 9,
+      "to_hour": 17,
+      "confirmed_percent": 100
+    },
+    {
+      "operation": "5-S1",
+      "studio": "甲",
+      "from_hour": 9,
+      "to_hour": 17,
+      "confirmed_percent": 60
+    },
+    {
+      "operation": "5-S1",
+      "studio": "乙",
+      "from_hour": 9,
+      "to_hour": 17,
+      "confirmed_percent": 40
+    },
+    {
+      "operation": "5-S2",
+      "studio": "丙",
+      "from_hour": 9,
+      "to_hour": 17,
+      "confirmed_percent": 100
+    },
+    {
+      "operation": "5-S3",
+      "studio": "乙",
+      "from_hour": 9,
+      "to_hour": 17,
+      "confirmed_percent": 100
+    },
+    {
+      "operation": "6-S1",
+      "studio": "甲",
+      "from_hour": 9,
+      "to_hour": 17,
+      "confirmed_percent": 60
+    },
+    {
+      "operation": "6-S1",
+      "studio": "乙",
+      "from_hour": 9,
+      "to_hour": 17,
+      "confirmed_percent": 40
+    },
+    {
+      "operation": "6-S2",
+      "studio": "丙",
+      "from_hour": 9,
+      "to_hour": 17,
+      "confirmed_percent": 100
+    },
+    {
+      "operation": "6-S3",
+      "studio": "乙",
+      "from_hour": 9,
+      "to_hour": 17,
+      "confirmed_percent": 100
+    },
+    {
+      "operation": "7-S1",
+      "studio": "甲",
+      "from_hour": 9,
+      "to_hour": 17,
+      "confirmed_percent": 60
+    },
+    {
+      "operation": "7-S1",
+      "studio": "乙",
+      "from_hour": 9,
+      "to_hour": 17,
+      "confirmed_percent": 40
+    },
+    {
+      "operation": "7-S2",
+      "studio": "丙",
+      "from_hour": 9,
+      "to_hour": 17,
+      "confirmed_percent": 100
+    },
+    {
+      "operation": "7-S3",
+      "studio": "乙",
+      "from_hour": 9,
+      "to_hour": 17,
+      "confirmed_percent": 100
+    },
+    {
+      "operation": "8-S1",
+      "studio": "甲",
+      "from_hour": 9,
+      "to_hour": 17,
+      "confirmed_percent": 60
+    },
+    {
+      "operation": "8-S1",
+      "studio": "乙",
+      "from_hour": 9,
+      "to_hour": 17,
+      "confirmed_percent": 40
+    },
+    {
+      "operation": "8-S2",
+      "studio": "丙",
+      "from_hour": 9,
+      "to_hour": 17,
+      "confirmed_percent": 100
+    },
+    {
+      "operation": "8-S3",
+      "studio": "乙",
+      "from_hour": 9,
+      "to_hour": 17,
+      "confirmed_percent": 100
+    },
+    {
+      "operation": "9-S1",
+      "studio": "甲",
+      "from_hour": 9,
+      "to_hour": 17,
+      "confirmed_percent": 60
+    },
+    {
+      "operation": "9-S1",
+      "studio": "乙",
+      "from_hour": 9,
+      "to_hour": 17,
+      "confirmed_percent": 40
+    },
+    {
+      "operation": "9-S2",
+      "studio": "丙",
+      "from_hour": 9,
+      "to_hour": 17,
+      "confirmed_percent": 100
+    },
+    {
+      "operation": "9-S3",
+      "studio": "乙",
+      "from_hour": 9,
+      "to_hour": 17,
+      "confirmed_percent": 100
+    },
+    {
+      "operation": "10-S1",
+      "studio": "甲",
+      "from_hour": 9,
+      "to_hour": 17,
+      "confirmed_percent": 60
+    },
+    {
+      "operation": "10-S1",
+      "studio": "乙",
+      "from_hour": 9,
+      "to_hour": 17,
+      "confirmed_percent": 40
+    },
+    {
+      "operation": "10-S2",
+      "studio": "丙",
+      "from_hour": 9,
+      "to_hour": 17,
+      "confirmed_percent": 100
+    },
+    {
+      "operation": "10-S3",
+      "studio": "乙",
+      "from_hour": 9,
+      "to_hour": 17,
+      "confirmed_percent": 100
+    },
+    {
+      "operation": "11-S1",
+      "studio": "甲",
+      "from_hour": 9,
+      "to_hour": 17,
+      "confirmed_percent": 60
+    },
+    {
+      "operation": "11-S1",
+      "studio": "乙",
+      "from_hour": 9,
+      "to_hour": 17,
+      "confirmed_percent": 40
+    },
+    {
+      "operation": "11-S2",
+      "studio": "丙",
+      "from_hour": 9,
+      "to_hour": 17,
+      "confirmed_percent": 100
+    },
+    {
+      "operation": "11-S3",
+      "studio": "乙",
+      "from_hour": 9,
+      "to_hour": 17,
+      "confirmed_percent": 100
+    },
+    {
+      "operation": "12-S1",
+      "studio": "甲",
+      "from_hour": 9,
+      "to_hour": 17,
+      "confirmed_percent": 60
+    },
+    {
+      "operation": "12-S1",
+      "studio": "乙",
+      "from_hour": 9,
+      "to_hour": 17,
+      "confirmed_percent": 40
+    },
+    {
+      "operation": "12-S2",
+      "studio": "丙",
+      "from_hour": 9,
+      "to_hour": 17,
+      "confirmed_percent": 100
+    },
+    {
+      "operation": "12-S3",
+      "studio": "乙",
+      "from_hour": 9,
+      "to_hour": 17,
+      "confirmed_percent": 100
+    },
+    {
+      "operation": "13-S1",
+      "studio": "甲",
+      "from_hour": 9,
+      "to_hour": 17,
+      "confirmed_percent": 60
+    },
+    {
+      "operation": "13-S1",
+      "studio": "乙",
+      "from_hour": 9,
+      "to_hour": 17,
+      "confirmed_percent": 40
+    },
+    {
+      "operation": "13-S2",
+      "studio": "丙",
+      "from_hour": 9,
+      "to_hour": 17,
+      "confirmed_percent": 100
+    },
+    {
+      "operation": "13-S3",
+      "studio": "乙",
+      "from_hour": 9,
+      "to_hour": 17,
+      "confirmed_percent": 100
+    },
+    {
+      "operation": "14-S1",
+      "studio": "甲",
+      "from_hour": 9,
+      "to_hour": 17,
+      "confirmed_percent": 60
+    },
+    {
+      "operation": "14-S1",
+      "studio": "乙",
+      "from_hour": 9,
+      "to_hour": 17,
+      "confirmed_percent": null
+    },
+    {
+      "operation": "14-S2",
+      "studio": "丙",
+      "from_hour": 9,
+      "to_hour": 17,
+      "confirmed_percent": 100
+    },
+    {
+      "operation": "14-S3",
+      "studio": "乙",
+      "from_hour": 9,
+      "to_hour": 17,
+      "confirmed_percent": 100
+    },
+    {
+      "operation": "15-S1",
+      "studio": "甲",
+      "from_hour": 9,
+      "to_hour": 17,
+      "confirmed_percent": 60
+    },
+    {
+      "operation": "15-S1",
+      "studio": "乙",
+      "from_hour": 9,
+      "to_hour": 17,
+      "confirmed_percent": null
+    },
+    {
+      "operation": "15-S2",
+      "studio": "丙",
+      "from_hour": 9,
+      "to_hour": 17,
+      "confirmed_percent": 100
+    },
+    {
+      "operation": "15-S3",
+      "studio": "乙",
+      "from_hour": 9,
+      "to_hour": 17,
+      "confirmed_percent": 100
+    },
+    {
+      "operation": "16-S1",
+      "studio": "甲",
+      "from_hour": 9,
+      "to_hour": 17,
+      "confirmed_percent": 60
+    },
+    {
+      "operation": "16-S1",
+      "studio": "乙",
+      "from_hour": 9,
+      "to_hour": 17,
+      "confirmed_percent": null
+    },
+    {
+      "operation": "16-S2",
+      "studio": "丙",
+      "from_hour": 9,
+      "to_hour": 17,
+      "confirmed_percent": 100
+    },
+    {
+      "operation": "16-S3",
+      "studio": "乙",
+      "from_hour": 9,
+      "to_hour": 17,
+      "confirmed_percent": 100
+    },
+    {
+      "operation": "17-S1",
+      "studio": "甲",
+      "from_hour": 9,
+      "to_hour": 17,
+      "confirmed_percent": 60
+    },
+    {
+      "operation": "17-S1",
+      "studio": "乙",
+      "from_hour": 9,
+      "to_hour": 17,
+      "confirmed_percent": null
+    },
+    {
+      "operation": "17-S2",
+      "studio": "丙",
+      "from_hour": 9,
+      "to_hour": 17,
+      "confirmed_percent": 100
+    },
+    {
+      "operation": "17-S3",
+      "studio": "乙",
+      "from_hour": 9,
+      "to_hour": 17,
+      "confirmed_percent": 100
+    },
+    {
+      "operation": "18-S1",
+      "studio": "甲",
+      "from_hour": 9,
+      "to_hour": 17,
+      "confirmed_percent": 60
+    },
+    {
+      "operation": "18-S1",
+      "studio": "乙",
+      "from_hour": 9,
+      "to_hour": 17,
+      "confirmed_percent": null
+    },
+    {
+      "operation": "18-S2",
+      "studio": "丙",
+      "from_hour": 9,
+      "to_hour": 17,
+      "confirmed_percent": 100
+    },
+    {
+      "operation": "18-S3",
+      "studio": "乙",
+      "from_hour": 9,
+      "to_hour": 17,
+      "confirmed_percent": 100
+    },
+    {
+      "operation": "19-S1",
+      "studio": "甲",
+      "from_hour": 9,
+      "to_hour": 17,
+      "confirmed_percent": 60
+    },
+    {
+      "operation": "19-S1",
+      "studio": "乙",
+      "from_hour": 9,
+      "to_hour": 17,
+      "confirmed_percent": null
+    },
+    {
+      "operation": "19-S2",
+      "studio": "丙",
+      "from_hour": 9,
+      "to_hour": 17,
+      "confirmed_percent": 100
+    },
+    {
+      "operation": "19-S3",
+      "studio": "乙",
+      "from_hour": 9,
+      "to_hour": 17,
+      "confirmed_percent": 100
+    },
+    {
+      "operation": "20-S1",
+      "studio": "甲",
+      "from_hour": 9,
+      "to_hour": 17,
+      "confirmed_percent": 60
+    },
+    {
+      "operation": "20-S1",
+      "studio": "乙",
+      "from_hour": 9,
+      "to_hour": 17,
+      "confirmed_percent": null
+    },
+    {
+      "operation": "20-S2",
+      "studio": "丙",
+      "from_hour": 9,
+      "to_hour": 17,
+      "confirmed_percent": 100
+    },
+    {
+      "operation": "20-S3",
+      "studio": "乙",
+      "from_hour": 9,
+      "to_hour": 17,
+      "confirmed_percent": 100
+    },
+    {
+      "operation": "21-S1",
+      "studio": "甲",
+      "from_hour": 9,
+      "to_hour": 17,
+      "confirmed_percent": 60
+    },
+    {
+      "operation": "21-S1",
+      "studio": "乙",
+      "from_hour": 9,
+      "to_hour": 17,
+      "confirmed_percent": null
+    },
+    {
+      "operation": "21-S2",
+      "studio": "丙",
+      "from_hour": 9,
+      "to_hour": 17,
+      "confirmed_percent": 100
+    },
+    {
+      "operation": "21-S3",
+      "studio": "乙",
+      "from_hour": 9,
+      "to_hour": 17,
+      "confirmed_percent": 100
+    },
+    {
+      "operation": "22-S1",
+      "studio": "甲",
+      "from_hour": 9,
+      "to_hour": 17,
+      "confirmed_percent": 60
+    },
+    {
+      "operation": "22-S1",
+      "studio": "乙",
+      "from_hour": 9,
+      "to_hour": 17,
+      "confirmed_percent": null
+    },
+    {
+      "operation": "22-S2",
+      "studio": "丙",
+      "from_hour": 9,
+      "to_hour": 17,
+      "confirmed_percent": 100
+    },
+    {
+      "operation": "22-S3",
+      "studio": "乙",
+      "from_hour": 9,
+      "to_hour": 17,
+      "confirmed_percent": 100
+    },
+    {
+      "operation": "23-S1",
+      "studio": "甲",
+      "from_hour": 9,
+      "to_hour": 17,
+      "confirmed_percent": 60
+    },
+    {
+      "operation": "23-S1",
+      "studio": "乙",
+      "from_hour": 9,
+      "to_hour": 17,
+      "confirmed_percent": null
+    },
+    {
+      "operation": "23-S2",
+      "studio": "丙",
+      "from_hour": 9,
+      "to_hour": 17,
+      "confirmed_percent": 100
+    },
+    {
+      "operation": "23-S3",
+      "studio": "乙",
+      "from_hour": 9,
+      "to_hour": 17,
+      "confirmed_percent": 100
+    },
+    {
+      "operation": "24-S1",
+      "studio": "甲",
+      "from_hour": 9,
+      "to_hour": 17,
+      "confirmed_percent": 60
+    },
+    {
+      "operation": "24-S1",
+      "studio": "乙",
+      "from_hour": 9,
+      "to_hour": 17,
+      "confirmed_percent": null
+    },
+    {
+      "operation": "24-S2",
+      "studio": "丙",
+      "from_hour": 9,
+      "to_hour": 17,
+      "confirmed_percent": 100
+    },
+    {
+      "operation": "24-S3",
+      "studio": "乙",
+      "from_hour": 9,
+      "to_hour": 17,
+      "confirmed_percent": 100
+    },
+    {
+      "operation": "25-S1",
+      "studio": "甲",
+      "from_hour": 9,
+      "to_hour": 17,
+      "confirmed_percent": 60
+    },
+    {
+      "operation": "25-S1",
+      "studio": "乙",
+      "from_hour": 9,
+      "to_hour": 17,
+      "confirmed_percent": null
+    },
+    {
+      "operation": "25-S2",
+      "studio": "丙",
+      "from_hour": 9,
+      "to_hour": 17,
+      "confirmed_percent": 100
+    },
+    {
+      "operation": "25-S3",
+      "studio": "乙",
+      "from_hour": 9,
+      "to_hour": 17,
+      "confirmed_percent": 100
+    },
+    {
+      "operation": "26-S1",
+      "studio": "甲",
+      "from_hour": 9,
+      "to_hour": 17,
+      "confirmed_percent": 60
+    },
+    {
+      "operation": "26-S1",
+      "studio": "乙",
+      "from_hour": 9,
+      "to_hour": 17,
+      "confirmed_percent": null
+    },
+    {
+      "operation": "26-S2",
+      "studio": "丙",
+      "from_hour": 9,
+      "to_hour": 17,
+      "confirmed_percent": 100
+    },
+    {
+      "operation": "26-S3",
+      "studio": "乙",
+      "from_hour": 9,
+      "to_hour": 17,
+      "confirmed_percent": 100
+    },
+    {
+      "operation": "27-S1",
+      "studio": "甲",
+      "from_hour": 9,
+      "to_hour": 17,
+      "confirmed_percent": 60
+    },
+    {
+      "operation": "27-S1",
+      "studio": "乙",
+      "from_hour": 9,
+      "to_hour": 17,
+      "confirmed_percent": null
+    },
+    {
+      "operation": "27-S2",
+      "studio": "丙",
+      "from_hour": 9,
+      "to_hour": 17,
+      "confirmed_percent": 100
+    },
+    {
+      "operation": "27-S3",
+      "studio": "乙",
+      "from_hour": 9,
+      "to_hour": 17,
+      "confirmed_percent": 100
+    }
+  ],
+  "display": [
+    {
+      "operation": "0-S1",
+      "sku": "K1",
+      "studio": "甲",
+      "from_hour": 9,
+      "to_hour": 15,
+      "visitors": 18
+    },
+    {
+      "operation": "0-S1",
+      "sku": "K2",
+      "studio": "乙",
+      "from_hour": 9,
+      "to_hour": 15,
+      "visitors": 19
+    },
+    {
+      "operation": "0-S2",
+      "sku": "K3",
+      "studio": "丙",
+      "from_hour": 9,
+      "to_hour": 15,
+      "visitors": 18
+    },
+    {
+      "operation": "0-S3",
+      "sku": "K2",
+      "studio": "乙",
+      "from_hour": 9,
+      "to_hour": 15,
+      "visitors": 18
+    },
+    {
+      "operation": "1-S1",
+      "sku": "K1",
+      "studio": "甲",
+      "from_hour": 9,
+      "to_hour": 17,
+      "visitors": 19
+    },
+    {
+      "operation": "1-S1",
+      "sku": "K2",
+      "studio": "乙",
+      "from_hour": 9,
+      "to_hour": 17,
+      "visitors": 20
+    },
+    {
+      "operation": "1-S2",
+      "sku": "K3",
+      "studio": "丙",
+      "from_hour": 9,
+      "to_hour": 17,
+      "visitors": 19
+    },
+    {
+      "operation": "1-S3",
+      "sku": "K2",
+      "studio": "乙",
+      "from_hour": 9,
+      "to_hour": 17,
+      "visitors": 19
+    },
+    {
+      "operation": "2-S1",
+      "sku": "K1",
+      "studio": "甲",
+      "from_hour": 9,
+      "to_hour": 17,
+      "visitors": 20
+    },
+    {
+      "operation": "2-S1",
+      "sku": "K2",
+      "studio": "乙",
+      "from_hour": 9,
+      "to_hour": 17,
+      "visitors": 21
+    },
+    {
+      "operation": "2-S2",
+      "sku": "K3",
+      "studio": "丙",
+      "from_hour": 9,
+      "to_hour": 17,
+      "visitors": 20
+    },
+    {
+      "operation": "2-S3",
+      "sku": "K2",
+      "studio": "乙",
+      "from_hour": 9,
+      "to_hour": 17,
+      "visitors": 20
+    },
+    {
+      "operation": "3-S1",
+      "sku": "K1",
+      "studio": "甲",
+      "from_hour": 9,
+      "to_hour": 17,
+      "visitors": 21
+    },
+    {
+      "operation": "3-S1",
+      "sku": "K2",
+      "studio": "乙",
+      "from_hour": 9,
+      "to_hour": 17,
+      "visitors": 22
+    },
+    {
+      "operation": "3-S2",
+      "sku": "K3",
+      "studio": "丙",
+      "from_hour": 9,
+      "to_hour": 17,
+      "visitors": 21
+    },
+    {
+      "operation": "3-S3",
+      "sku": "K2",
+      "studio": "乙",
+      "from_hour": 9,
+      "to_hour": 17,
+      "visitors": 21
+    },
+    {
+      "operation": "4-S1",
+      "sku": "K1",
+      "studio": "甲",
+      "from_hour": 9,
+      "to_hour": 15,
+      "visitors": 22
+    },
+    {
+      "operation": "4-S1",
+      "sku": "K2",
+      "studio": "乙",
+      "from_hour": 9,
+      "to_hour": 15,
+      "visitors": 23
+    },
+    {
+      "operation": "4-S2",
+      "sku": "K3",
+      "studio": "丙",
+      "from_hour": 9,
+      "to_hour": 15,
+      "visitors": 22
+    },
+    {
+      "operation": "4-S3",
+      "sku": "K2",
+      "studio": "乙",
+      "from_hour": 9,
+      "to_hour": 15,
+      "visitors": 22
+    },
+    {
+      "operation": "5-S1",
+      "sku": "K1",
+      "studio": "甲",
+      "from_hour": 9,
+      "to_hour": 17,
+      "visitors": 23
+    },
+    {
+      "operation": "5-S1",
+      "sku": "K2",
+      "studio": "乙",
+      "from_hour": 9,
+      "to_hour": 17,
+      "visitors": 24
+    },
+    {
+      "operation": "5-S2",
+      "sku": "K3",
+      "studio": "丙",
+      "from_hour": 9,
+      "to_hour": 17,
+      "visitors": 23
+    },
+    {
+      "operation": "5-S3",
+      "sku": "K2",
+      "studio": "乙",
+      "from_hour": 9,
+      "to_hour": 17,
+      "visitors": 23
+    },
+    {
+      "operation": "6-S1",
+      "sku": "K1",
+      "studio": "甲",
+      "from_hour": 9,
+      "to_hour": 17,
+      "visitors": 24
+    },
+    {
+      "operation": "6-S1",
+      "sku": "K2",
+      "studio": "乙",
+      "from_hour": 9,
+      "to_hour": 17,
+      "visitors": 25
+    },
+    {
+      "operation": "6-S2",
+      "sku": "K3",
+      "studio": "丙",
+      "from_hour": 9,
+      "to_hour": 17,
+      "visitors": 24
+    },
+    {
+      "operation": "6-S3",
+      "sku": "K2",
+      "studio": "乙",
+      "from_hour": 9,
+      "to_hour": 17,
+      "visitors": 24
+    },
+    {
+      "operation": "7-S1",
+      "sku": "K1",
+      "studio": "甲",
+      "from_hour": 9,
+      "to_hour": 17,
+      "visitors": 25
+    },
+    {
+      "operation": "7-S1",
+      "sku": "K2",
+      "studio": "乙",
+      "from_hour": 9,
+      "to_hour": 17,
+      "visitors": 26
+    },
+    {
+      "operation": "7-S2",
+      "sku": "K3",
+      "studio": "丙",
+      "from_hour": 9,
+      "to_hour": 17,
+      "visitors": 25
+    },
+    {
+      "operation": "7-S3",
+      "sku": "K2",
+      "studio": "乙",
+      "from_hour": 9,
+      "to_hour": 17,
+      "visitors": 25
+    },
+    {
+      "operation": "8-S1",
+      "sku": "K1",
+      "studio": "甲",
+      "from_hour": 9,
+      "to_hour": 15,
+      "visitors": 26
+    },
+    {
+      "operation": "8-S1",
+      "sku": "K2",
+      "studio": "乙",
+      "from_hour": 9,
+      "to_hour": 15,
+      "visitors": 27
+    },
+    {
+      "operation": "8-S2",
+      "sku": "K3",
+      "studio": "丙",
+      "from_hour": 9,
+      "to_hour": 15,
+      "visitors": 26
+    },
+    {
+      "operation": "8-S3",
+      "sku": "K2",
+      "studio": "乙",
+      "from_hour": 9,
+      "to_hour": 15,
+      "visitors": 26
+    },
+    {
+      "operation": "9-S1",
+      "sku": "K1",
+      "studio": "甲",
+      "from_hour": 9,
+      "to_hour": 17,
+      "visitors": 27
+    },
+    {
+      "operation": "9-S1",
+      "sku": "K2",
+      "studio": "乙",
+      "from_hour": 9,
+      "to_hour": 17,
+      "visitors": 28
+    },
+    {
+      "operation": "9-S2",
+      "sku": "K3",
+      "studio": "丙",
+      "from_hour": 9,
+      "to_hour": 17,
+      "visitors": 27
+    },
+    {
+      "operation": "9-S3",
+      "sku": "K2",
+      "studio": "乙",
+      "from_hour": 9,
+      "to_hour": 17,
+      "visitors": 27
+    },
+    {
+      "operation": "10-S1",
+      "sku": "K1",
+      "studio": "甲",
+      "from_hour": 9,
+      "to_hour": 17,
+      "visitors": 28
+    },
+    {
+      "operation": "10-S1",
+      "sku": "K2",
+      "studio": "乙",
+      "from_hour": 9,
+      "to_hour": 17,
+      "visitors": 29
+    },
+    {
+      "operation": "10-S2",
+      "sku": "K3",
+      "studio": "丙",
+      "from_hour": 9,
+      "to_hour": 17,
+      "visitors": 28
+    },
+    {
+      "operation": "10-S3",
+      "sku": "K2",
+      "studio": "乙",
+      "from_hour": 9,
+      "to_hour": 17,
+      "visitors": 28
+    },
+    {
+      "operation": "11-S1",
+      "sku": "K1",
+      "studio": "甲",
+      "from_hour": 9,
+      "to_hour": 17,
+      "visitors": 29
+    },
+    {
+      "operation": "11-S1",
+      "sku": "K2",
+      "studio": "乙",
+      "from_hour": 9,
+      "to_hour": 17,
+      "visitors": 30
+    },
+    {
+      "operation": "11-S2",
+      "sku": "K3",
+      "studio": "丙",
+      "from_hour": 9,
+      "to_hour": 17,
+      "visitors": 29
+    },
+    {
+      "operation": "11-S3",
+      "sku": "K2",
+      "studio": "乙",
+      "from_hour": 9,
+      "to_hour": 17,
+      "visitors": 29
+    },
+    {
+      "operation": "12-S1",
+      "sku": "K1",
+      "studio": "甲",
+      "from_hour": 9,
+      "to_hour": 15,
+      "visitors": 30
+    },
+    {
+      "operation": "12-S1",
+      "sku": "K2",
+      "studio": "乙",
+      "from_hour": 9,
+      "to_hour": 15,
+      "visitors": 31
+    },
+    {
+      "operation": "12-S2",
+      "sku": "K3",
+      "studio": "丙",
+      "from_hour": 9,
+      "to_hour": 15,
+      "visitors": 30
+    },
+    {
+      "operation": "12-S3",
+      "sku": "K2",
+      "studio": "乙",
+      "from_hour": 9,
+      "to_hour": 15,
+      "visitors": 30
+    },
+    {
+      "operation": "13-S1",
+      "sku": "K1",
+      "studio": "甲",
+      "from_hour": 9,
+      "to_hour": 17,
+      "visitors": 31
+    },
+    {
+      "operation": "13-S1",
+      "sku": "K2",
+      "studio": "乙",
+      "from_hour": 9,
+      "to_hour": 17,
+      "visitors": 32
+    },
+    {
+      "operation": "13-S2",
+      "sku": "K3",
+      "studio": "丙",
+      "from_hour": 9,
+      "to_hour": 17,
+      "visitors": 31
+    },
+    {
+      "operation": "13-S3",
+      "sku": "K2",
+      "studio": "乙",
+      "from_hour": 9,
+      "to_hour": 17,
+      "visitors": 31
+    },
+    {
+      "operation": "14-S1",
+      "sku": "K1",
+      "studio": "甲",
+      "from_hour": 9,
+      "to_hour": 17,
+      "visitors": 32
+    },
+    {
+      "operation": "14-S1",
+      "sku": "K2",
+      "studio": "乙",
+      "from_hour": 9,
+      "to_hour": 17,
+      "visitors": 33
+    },
+    {
+      "operation": "14-S2",
+      "sku": "K3",
+      "studio": "丙",
+      "from_hour": 9,
+      "to_hour": 17,
+      "visitors": 32
+    },
+    {
+      "operation": "14-S3",
+      "sku": "K2",
+      "studio": "乙",
+      "from_hour": 9,
+      "to_hour": 17,
+      "visitors": 32
+    },
+    {
+      "operation": "15-S1",
+      "sku": "K1",
+      "studio": "甲",
+      "from_hour": 9,
+      "to_hour": 17,
+      "visitors": 33
+    },
+    {
+      "operation": "15-S1",
+      "sku": "K2",
+      "studio": "乙",
+      "from_hour": 9,
+      "to_hour": 17,
+      "visitors": 34
+    },
+    {
+      "operation": "15-S2",
+      "sku": "K3",
+      "studio": "丙",
+      "from_hour": 9,
+      "to_hour": 17,
+      "visitors": 33
+    },
+    {
+      "operation": "15-S3",
+      "sku": "K2",
+      "studio": "乙",
+      "from_hour": 9,
+      "to_hour": 17,
+      "visitors": 33
+    },
+    {
+      "operation": "16-S1",
+      "sku": "K1",
+      "studio": "甲",
+      "from_hour": 9,
+      "to_hour": 15,
+      "visitors": 34
+    },
+    {
+      "operation": "16-S1",
+      "sku": "K2",
+      "studio": "乙",
+      "from_hour": 9,
+      "to_hour": 15,
+      "visitors": 35
+    },
+    {
+      "operation": "16-S2",
+      "sku": "K3",
+      "studio": "丙",
+      "from_hour": 9,
+      "to_hour": 15,
+      "visitors": 34
+    },
+    {
+      "operation": "16-S3",
+      "sku": "K2",
+      "studio": "乙",
+      "from_hour": 9,
+      "to_hour": 15,
+      "visitors": 34
+    },
+    {
+      "operation": "17-S1",
+      "sku": "K1",
+      "studio": "甲",
+      "from_hour": 9,
+      "to_hour": 17,
+      "visitors": 35
+    },
+    {
+      "operation": "17-S1",
+      "sku": "K2",
+      "studio": "乙",
+      "from_hour": 9,
+      "to_hour": 17,
+      "visitors": 18
+    },
+    {
+      "operation": "17-S2",
+      "sku": "K3",
+      "studio": "丙",
+      "from_hour": 9,
+      "to_hour": 17,
+      "visitors": 35
+    },
+    {
+      "operation": "17-S3",
+      "sku": "K2",
+      "studio": "乙",
+      "from_hour": 9,
+      "to_hour": 17,
+      "visitors": 35
+    },
+    {
+      "operation": "18-S1",
+      "sku": "K1",
+      "studio": "甲",
+      "from_hour": 9,
+      "to_hour": 17,
+      "visitors": 18
+    },
+    {
+      "operation": "18-S1",
+      "sku": "K2",
+      "studio": "乙",
+      "from_hour": 9,
+      "to_hour": 17,
+      "visitors": 19
+    },
+    {
+      "operation": "18-S2",
+      "sku": "K3",
+      "studio": "丙",
+      "from_hour": 9,
+      "to_hour": 17,
+      "visitors": 18
+    },
+    {
+      "operation": "18-S3",
+      "sku": "K2",
+      "studio": "乙",
+      "from_hour": 9,
+      "to_hour": 17,
+      "visitors": 18
+    },
+    {
+      "operation": "19-S1",
+      "sku": "K1",
+      "studio": "甲",
+      "from_hour": 9,
+      "to_hour": 17,
+      "visitors": 19
+    },
+    {
+      "operation": "19-S1",
+      "sku": "K2",
+      "studio": "乙",
+      "from_hour": 9,
+      "to_hour": 17,
+      "visitors": 20
+    },
+    {
+      "operation": "19-S2",
+      "sku": "K3",
+      "studio": "丙",
+      "from_hour": 9,
+      "to_hour": 17,
+      "visitors": 19
+    },
+    {
+      "operation": "19-S3",
+      "sku": "K2",
+      "studio": "乙",
+      "from_hour": 9,
+      "to_hour": 17,
+      "visitors": 19
+    },
+    {
+      "operation": "20-S1",
+      "sku": "K1",
+      "studio": "甲",
+      "from_hour": 9,
+      "to_hour": 15,
+      "visitors": 20
+    },
+    {
+      "operation": "20-S1",
+      "sku": "K2",
+      "studio": "乙",
+      "from_hour": 9,
+      "to_hour": 15,
+      "visitors": 21
+    },
+    {
+      "operation": "20-S2",
+      "sku": "K3",
+      "studio": "丙",
+      "from_hour": 9,
+      "to_hour": 15,
+      "visitors": 20
+    },
+    {
+      "operation": "20-S3",
+      "sku": "K2",
+      "studio": "乙",
+      "from_hour": 9,
+      "to_hour": 15,
+      "visitors": 20
+    },
+    {
+      "operation": "21-S1",
+      "sku": "K1",
+      "studio": "甲",
+      "from_hour": 9,
+      "to_hour": 17,
+      "visitors": 21
+    },
+    {
+      "operation": "21-S1",
+      "sku": "K2",
+      "studio": "乙",
+      "from_hour": 9,
+      "to_hour": 17,
+      "visitors": 22
+    },
+    {
+      "operation": "21-S2",
+      "sku": "K3",
+      "studio": "丙",
+      "from_hour": 9,
+      "to_hour": 17,
+      "visitors": 21
+    },
+    {
+      "operation": "21-S3",
+      "sku": "K2",
+      "studio": "乙",
+      "from_hour": 9,
+      "to_hour": 17,
+      "visitors": 21
+    },
+    {
+      "operation": "22-S1",
+      "sku": "K1",
+      "studio": "甲",
+      "from_hour": 9,
+      "to_hour": 17,
+      "visitors": 22
+    },
+    {
+      "operation": "22-S1",
+      "sku": "K2",
+      "studio": "乙",
+      "from_hour": 9,
+      "to_hour": 17,
+      "visitors": 23
+    },
+    {
+      "operation": "22-S2",
+      "sku": "K3",
+      "studio": "丙",
+      "from_hour": 9,
+      "to_hour": 17,
+      "visitors": 22
+    },
+    {
+      "operation": "22-S3",
+      "sku": "K2",
+      "studio": "乙",
+      "from_hour": 9,
+      "to_hour": 17,
+      "visitors": 22
+    },
+    {
+      "operation": "23-S1",
+      "sku": "K1",
+      "studio": "甲",
+      "from_hour": 9,
+      "to_hour": 17,
+      "visitors": 23
+    },
+    {
+      "operation": "23-S1",
+      "sku": "K2",
+      "studio": "乙",
+      "from_hour": 9,
+      "to_hour": 17,
+      "visitors": 24
+    },
+    {
+      "operation": "23-S2",
+      "sku": "K3",
+      "studio": "丙",
+      "from_hour": 9,
+      "to_hour": 17,
+      "visitors": 23
+    },
+    {
+      "operation": "23-S3",
+      "sku": "K2",
+      "studio": "乙",
+      "from_hour": 9,
+      "to_hour": 17,
+      "visitors": 23
+    },
+    {
+      "operation": "24-S1",
+      "sku": "K1",
+      "studio": "甲",
+      "from_hour": 9,
+      "to_hour": 15,
+      "visitors": 24
+    },
+    {
+      "operation": "24-S1",
+      "sku": "K2",
+      "studio": "乙",
+      "from_hour": 9,
+      "to_hour": 15,
+      "visitors": 25
+    },
+    {
+      "operation": "24-S2",
+      "sku": "K3",
+      "studio": "丙",
+      "from_hour": 9,
+      "to_hour": 15,
+      "visitors": 24
+    },
+    {
+      "operation": "24-S3",
+      "sku": "K2",
+      "studio": "乙",
+      "from_hour": 9,
+      "to_hour": 15,
+      "visitors": 24
+    },
+    {
+      "operation": "25-S1",
+      "sku": "K1",
+      "studio": "甲",
+      "from_hour": 9,
+      "to_hour": 17,
+      "visitors": 25
+    },
+    {
+      "operation": "25-S1",
+      "sku": "K2",
+      "studio": "乙",
+      "from_hour": 9,
+      "to_hour": 17,
+      "visitors": 26
+    },
+    {
+      "operation": "25-S2",
+      "sku": "K3",
+      "studio": "丙",
+      "from_hour": 9,
+      "to_hour": 17,
+      "visitors": 25
+    },
+    {
+      "operation": "25-S3",
+      "sku": "K2",
+      "studio": "乙",
+      "from_hour": 9,
+      "to_hour": 17,
+      "visitors": 25
+    },
+    {
+      "operation": "26-S1",
+      "sku": "K1",
+      "studio": "甲",
+      "from_hour": 9,
+      "to_hour": 17,
+      "visitors": 26
+    },
+    {
+      "operation": "26-S1",
+      "sku": "K2",
+      "studio": "乙",
+      "from_hour": 9,
+      "to_hour": 17,
+      "visitors": 27
+    },
+    {
+      "operation": "26-S2",
+      "sku": "K3",
+      "studio": "丙",
+      "from_hour": 9,
+      "to_hour": 17,
+      "visitors": 26
+    },
+    {
+      "operation": "26-S3",
+      "sku": "K2",
+      "studio": "乙",
+      "from_hour": 9,
+      "to_hour": 17,
+      "visitors": 26
+    },
+    {
+      "operation": "27-S1",
+      "sku": "K1",
+      "studio": "甲",
+      "from_hour": 9,
+      "to_hour": 17,
+      "visitors": 27
+    },
+    {
+      "operation": "27-S1",
+      "sku": "K2",
+      "studio": "乙",
+      "from_hour": 9,
+      "to_hour": 17,
+      "visitors": 28
+    },
+    {
+      "operation": "27-S2",
+      "sku": "K3",
+      "studio": "丙",
+      "from_hour": 9,
+      "to_hour": 17,
+      "visitors": 27
+    },
+    {
+      "operation": "27-S3",
+      "sku": "K2",
+      "studio": "乙",
+      "from_hour": 9,
+      "to_hour": 17,
+      "visitors": 27
+    }
+  ],
+  "take": [
+    {
+      "id": "P0-S1-1-0",
+      "operation": "0-S1",
+      "sku": "K2",
+      "hour": 11,
+      "date": "2026-08-01"
+    },
+    {
+      "id": "P1-S1-0-0",
+      "operation": "1-S1",
+      "sku": "K1",
+      "hour": 11,
+      "date": "2026-08-02"
+    },
+    {
+      "id": "P1-S1-1-0",
+      "operation": "1-S1",
+      "sku": "K2",
+      "hour": 11,
+      "date": "2026-08-02"
+    },
+    {
+      "id": "P1-S1-1-1",
+      "operation": "1-S1",
+      "sku": "K2",
+      "hour": 12,
+      "date": "2026-08-02"
+    },
+    {
+      "id": "P1-S2-0-0",
+      "operation": "1-S2",
+      "sku": "K3",
+      "hour": 11,
+      "date": "2026-08-02"
+    },
+    {
+      "id": "P1-S3-0-0",
+      "operation": "1-S3",
+      "sku": "K2",
+      "hour": 11,
+      "date": "2026-08-02"
+    },
+    {
+      "id": "P2-S1-0-0",
+      "operation": "2-S1",
+      "sku": "K1",
+      "hour": 11,
+      "date": "2026-08-03"
+    },
+    {
+      "id": "P2-S1-0-1",
+      "operation": "2-S1",
+      "sku": "K1",
+      "hour": 12,
+      "date": "2026-08-03"
+    },
+    {
+      "id": "P2-S1-1-0",
+      "operation": "2-S1",
+      "sku": "K2",
+      "hour": 11,
+      "date": "2026-08-03"
+    },
+    {
+      "id": "P2-S1-1-1",
+      "operation": "2-S1",
+      "sku": "K2",
+      "hour": 12,
+      "date": "2026-08-03"
+    },
+    {
+      "id": "P2-S1-1-2",
+      "operation": "2-S1",
+      "sku": "K2",
+      "hour": 13,
+      "date": "2026-08-03"
+    },
+    {
+      "id": "P2-S2-0-0",
+      "operation": "2-S2",
+      "sku": "K3",
+      "hour": 11,
+      "date": "2026-08-03"
+    },
+    {
+      "id": "P2-S2-0-1",
+      "operation": "2-S2",
+      "sku": "K3",
+      "hour": 12,
+      "date": "2026-08-03"
+    },
+    {
+      "id": "P2-S3-0-0",
+      "operation": "2-S3",
+      "sku": "K2",
+      "hour": 11,
+      "date": "2026-08-03"
+    },
+    {
+      "id": "P2-S3-0-1",
+      "operation": "2-S3",
+      "sku": "K2",
+      "hour": 12,
+      "date": "2026-08-03"
+    },
+    {
+      "id": "P3-S1-0-0",
+      "operation": "3-S1",
+      "sku": "K1",
+      "hour": 11,
+      "date": "2026-08-04"
+    },
+    {
+      "id": "P3-S1-0-1",
+      "operation": "3-S1",
+      "sku": "K1",
+      "hour": 12,
+      "date": "2026-08-04"
+    },
+    {
+      "id": "P3-S1-0-2",
+      "operation": "3-S1",
+      "sku": "K1",
+      "hour": 13,
+      "date": "2026-08-04"
+    },
+    {
+      "id": "P3-S2-0-0",
+      "operation": "3-S2",
+      "sku": "K3",
+      "hour": 11,
+      "date": "2026-08-04"
+    },
+    {
+      "id": "P3-S2-0-1",
+      "operation": "3-S2",
+      "sku": "K3",
+      "hour": 12,
+      "date": "2026-08-04"
+    },
+    {
+      "id": "P3-S2-0-2",
+      "operation": "3-S2",
+      "sku": "K3",
+      "hour": 13,
+      "date": "2026-08-04"
+    },
+    {
+      "id": "P3-S3-0-0",
+      "operation": "3-S3",
+      "sku": "K2",
+      "hour": 11,
+      "date": "2026-08-04"
+    },
+    {
+      "id": "P3-S3-0-1",
+      "operation": "3-S3",
+      "sku": "K2",
+      "hour": 12,
+      "date": "2026-08-04"
+    },
+    {
+      "id": "P3-S3-0-2",
+      "operation": "3-S3",
+      "sku": "K2",
+      "hour": 13,
+      "date": "2026-08-04"
+    },
+    {
+      "id": "P4-S1-1-0",
+      "operation": "4-S1",
+      "sku": "K2",
+      "hour": 11,
+      "date": "2026-08-05"
+    },
+    {
+      "id": "P5-S1-0-0",
+      "operation": "5-S1",
+      "sku": "K1",
+      "hour": 11,
+      "date": "2026-08-06"
+    },
+    {
+      "id": "P5-S1-1-0",
+      "operation": "5-S1",
+      "sku": "K2",
+      "hour": 11,
+      "date": "2026-08-06"
+    },
+    {
+      "id": "P5-S1-1-1",
+      "operation": "5-S1",
+      "sku": "K2",
+      "hour": 12,
+      "date": "2026-08-06"
+    },
+    {
+      "id": "P5-S2-0-0",
+      "operation": "5-S2",
+      "sku": "K3",
+      "hour": 11,
+      "date": "2026-08-06"
+    },
+    {
+      "id": "P5-S3-0-0",
+      "operation": "5-S3",
+      "sku": "K2",
+      "hour": 11,
+      "date": "2026-08-06"
+    },
+    {
+      "id": "P6-S1-0-0",
+      "operation": "6-S1",
+      "sku": "K1",
+      "hour": 11,
+      "date": "2026-08-07"
+    },
+    {
+      "id": "P6-S1-0-1",
+      "operation": "6-S1",
+      "sku": "K1",
+      "hour": 12,
+      "date": "2026-08-07"
+    },
+    {
+      "id": "P6-S1-1-0",
+      "operation": "6-S1",
+      "sku": "K2",
+      "hour": 11,
+      "date": "2026-08-07"
+    },
+    {
+      "id": "P6-S1-1-1",
+      "operation": "6-S1",
+      "sku": "K2",
+      "hour": 12,
+      "date": "2026-08-07"
+    },
+    {
+      "id": "P6-S1-1-2",
+      "operation": "6-S1",
+      "sku": "K2",
+      "hour": 13,
+      "date": "2026-08-07"
+    },
+    {
+      "id": "P6-S2-0-0",
+      "operation": "6-S2",
+      "sku": "K3",
+      "hour": 11,
+      "date": "2026-08-07"
+    },
+    {
+      "id": "P6-S2-0-1",
+      "operation": "6-S2",
+      "sku": "K3",
+      "hour": 12,
+      "date": "2026-08-07"
+    },
+    {
+      "id": "P6-S3-0-0",
+      "operation": "6-S3",
+      "sku": "K2",
+      "hour": 11,
+      "date": "2026-08-07"
+    },
+    {
+      "id": "P6-S3-0-1",
+      "operation": "6-S3",
+      "sku": "K2",
+      "hour": 12,
+      "date": "2026-08-07"
+    },
+    {
+      "id": "P7-S1-0-0",
+      "operation": "7-S1",
+      "sku": "K1",
+      "hour": 11,
+      "date": "2026-08-08"
+    },
+    {
+      "id": "P7-S1-0-1",
+      "operation": "7-S1",
+      "sku": "K1",
+      "hour": 12,
+      "date": "2026-08-08"
+    },
+    {
+      "id": "P7-S1-0-2",
+      "operation": "7-S1",
+      "sku": "K1",
+      "hour": 13,
+      "date": "2026-08-08"
+    },
+    {
+      "id": "P7-S2-0-0",
+      "operation": "7-S2",
+      "sku": "K3",
+      "hour": 11,
+      "date": "2026-08-08"
+    },
+    {
+      "id": "P7-S2-0-1",
+      "operation": "7-S2",
+      "sku": "K3",
+      "hour": 12,
+      "date": "2026-08-08"
+    },
+    {
+      "id": "P7-S2-0-2",
+      "operation": "7-S2",
+      "sku": "K3",
+      "hour": 13,
+      "date": "2026-08-08"
+    },
+    {
+      "id": "P7-S3-0-0",
+      "operation": "7-S3",
+      "sku": "K2",
+      "hour": 11,
+      "date": "2026-08-08"
+    },
+    {
+      "id": "P7-S3-0-1",
+      "operation": "7-S3",
+      "sku": "K2",
+      "hour": 12,
+      "date": "2026-08-08"
+    },
+    {
+      "id": "P7-S3-0-2",
+      "operation": "7-S3",
+      "sku": "K2",
+      "hour": 13,
+      "date": "2026-08-08"
+    },
+    {
+      "id": "P8-S1-1-0",
+      "operation": "8-S1",
+      "sku": "K2",
+      "hour": 11,
+      "date": "2026-08-09"
+    },
+    {
+      "id": "P9-S1-0-0",
+      "operation": "9-S1",
+      "sku": "K1",
+      "hour": 11,
+      "date": "2026-08-10"
+    },
+    {
+      "id": "P9-S1-1-0",
+      "operation": "9-S1",
+      "sku": "K2",
+      "hour": 11,
+      "date": "2026-08-10"
+    },
+    {
+      "id": "P9-S1-1-1",
+      "operation": "9-S1",
+      "sku": "K2",
+      "hour": 12,
+      "date": "2026-08-10"
+    },
+    {
+      "id": "P9-S2-0-0",
+      "operation": "9-S2",
+      "sku": "K3",
+      "hour": 11,
+      "date": "2026-08-10"
+    },
+    {
+      "id": "P9-S3-0-0",
+      "operation": "9-S3",
+      "sku": "K2",
+      "hour": 11,
+      "date": "2026-08-10"
+    },
+    {
+      "id": "P10-S1-0-0",
+      "operation": "10-S1",
+      "sku": "K1",
+      "hour": 11,
+      "date": "2026-08-11"
+    },
+    {
+      "id": "P10-S1-0-1",
+      "operation": "10-S1",
+      "sku": "K1",
+      "hour": 12,
+      "date": "2026-08-11"
+    },
+    {
+      "id": "P10-S1-1-0",
+      "operation": "10-S1",
+      "sku": "K2",
+      "hour": 11,
+      "date": "2026-08-11"
+    },
+    {
+      "id": "P10-S1-1-1",
+      "operation": "10-S1",
+      "sku": "K2",
+      "hour": 12,
+      "date": "2026-08-11"
+    },
+    {
+      "id": "P10-S1-1-2",
+      "operation": "10-S1",
+      "sku": "K2",
+      "hour": 13,
+      "date": "2026-08-11"
+    },
+    {
+      "id": "P10-S2-0-0",
+      "operation": "10-S2",
+      "sku": "K3",
+      "hour": 11,
+      "date": "2026-08-11"
+    },
+    {
+      "id": "P10-S2-0-1",
+      "operation": "10-S2",
+      "sku": "K3",
+      "hour": 12,
+      "date": "2026-08-11"
+    },
+    {
+      "id": "P10-S3-0-0",
+      "operation": "10-S3",
+      "sku": "K2",
+      "hour": 11,
+      "date": "2026-08-11"
+    },
+    {
+      "id": "P10-S3-0-1",
+      "operation": "10-S3",
+      "sku": "K2",
+      "hour": 12,
+      "date": "2026-08-11"
+    },
+    {
+      "id": "P11-S1-0-0",
+      "operation": "11-S1",
+      "sku": "K1",
+      "hour": 11,
+      "date": "2026-08-12"
+    },
+    {
+      "id": "P11-S1-0-1",
+      "operation": "11-S1",
+      "sku": "K1",
+      "hour": 12,
+      "date": "2026-08-12"
+    },
+    {
+      "id": "P11-S1-0-2",
+      "operation": "11-S1",
+      "sku": "K1",
+      "hour": 13,
+      "date": "2026-08-12"
+    },
+    {
+      "id": "P11-S2-0-0",
+      "operation": "11-S2",
+      "sku": "K3",
+      "hour": 11,
+      "date": "2026-08-12"
+    },
+    {
+      "id": "P11-S2-0-1",
+      "operation": "11-S2",
+      "sku": "K3",
+      "hour": 12,
+      "date": "2026-08-12"
+    },
+    {
+      "id": "P11-S2-0-2",
+      "operation": "11-S2",
+      "sku": "K3",
+      "hour": 13,
+      "date": "2026-08-12"
+    },
+    {
+      "id": "P11-S3-0-0",
+      "operation": "11-S3",
+      "sku": "K2",
+      "hour": 11,
+      "date": "2026-08-12"
+    },
+    {
+      "id": "P11-S3-0-1",
+      "operation": "11-S3",
+      "sku": "K2",
+      "hour": 12,
+      "date": "2026-08-12"
+    },
+    {
+      "id": "P11-S3-0-2",
+      "operation": "11-S3",
+      "sku": "K2",
+      "hour": 13,
+      "date": "2026-08-12"
+    },
+    {
+      "id": "P12-S1-1-0",
+      "operation": "12-S1",
+      "sku": "K2",
+      "hour": 11,
+      "date": "2026-08-13"
+    },
+    {
+      "id": "P13-S1-0-0",
+      "operation": "13-S1",
+      "sku": "K1",
+      "hour": 11,
+      "date": "2026-08-14"
+    },
+    {
+      "id": "P13-S1-1-0",
+      "operation": "13-S1",
+      "sku": "K2",
+      "hour": 11,
+      "date": "2026-08-14"
+    },
+    {
+      "id": "P13-S1-1-1",
+      "operation": "13-S1",
+      "sku": "K2",
+      "hour": 12,
+      "date": "2026-08-14"
+    },
+    {
+      "id": "P13-S2-0-0",
+      "operation": "13-S2",
+      "sku": "K3",
+      "hour": 11,
+      "date": "2026-08-14"
+    },
+    {
+      "id": "P13-S3-0-0",
+      "operation": "13-S3",
+      "sku": "K2",
+      "hour": 11,
+      "date": "2026-08-14"
+    },
+    {
+      "id": "P14-S1-0-0",
+      "operation": "14-S1",
+      "sku": "K1",
+      "hour": 11,
+      "date": "2026-08-15"
+    },
+    {
+      "id": "P14-S1-0-1",
+      "operation": "14-S1",
+      "sku": "K1",
+      "hour": 12,
+      "date": "2026-08-15"
+    },
+    {
+      "id": "P14-S1-1-0",
+      "operation": "14-S1",
+      "sku": "K2",
+      "hour": 11,
+      "date": "2026-08-15"
+    },
+    {
+      "id": "P14-S1-1-1",
+      "operation": "14-S1",
+      "sku": "K2",
+      "hour": 12,
+      "date": "2026-08-15"
+    },
+    {
+      "id": "P14-S1-1-2",
+      "operation": "14-S1",
+      "sku": "K2",
+      "hour": 13,
+      "date": "2026-08-15"
+    },
+    {
+      "id": "P14-S2-0-0",
+      "operation": "14-S2",
+      "sku": "K3",
+      "hour": 11,
+      "date": "2026-08-15"
+    },
+    {
+      "id": "P14-S2-0-1",
+      "operation": "14-S2",
+      "sku": "K3",
+      "hour": 12,
+      "date": "2026-08-15"
+    },
+    {
+      "id": "P14-S3-0-0",
+      "operation": "14-S3",
+      "sku": "K2",
+      "hour": 11,
+      "date": "2026-08-15"
+    },
+    {
+      "id": "P14-S3-0-1",
+      "operation": "14-S3",
+      "sku": "K2",
+      "hour": 12,
+      "date": "2026-08-15"
+    },
+    {
+      "id": "P15-S1-0-0",
+      "operation": "15-S1",
+      "sku": "K1",
+      "hour": 11,
+      "date": "2026-08-16"
+    },
+    {
+      "id": "P15-S1-0-1",
+      "operation": "15-S1",
+      "sku": "K1",
+      "hour": 12,
+      "date": "2026-08-16"
+    },
+    {
+      "id": "P15-S1-0-2",
+      "operation": "15-S1",
+      "sku": "K1",
+      "hour": 13,
+      "date": "2026-08-16"
+    },
+    {
+      "id": "P15-S2-0-0",
+      "operation": "15-S2",
+      "sku": "K3",
+      "hour": 11,
+      "date": "2026-08-16"
+    },
+    {
+      "id": "P15-S2-0-1",
+      "operation": "15-S2",
+      "sku": "K3",
+      "hour": 12,
+      "date": "2026-08-16"
+    },
+    {
+      "id": "P15-S2-0-2",
+      "operation": "15-S2",
+      "sku": "K3",
+      "hour": 13,
+      "date": "2026-08-16"
+    },
+    {
+      "id": "P15-S3-0-0",
+      "operation": "15-S3",
+      "sku": "K2",
+      "hour": 11,
+      "date": "2026-08-16"
+    },
+    {
+      "id": "P15-S3-0-1",
+      "operation": "15-S3",
+      "sku": "K2",
+      "hour": 12,
+      "date": "2026-08-16"
+    },
+    {
+      "id": "P15-S3-0-2",
+      "operation": "15-S3",
+      "sku": "K2",
+      "hour": 13,
+      "date": "2026-08-16"
+    },
+    {
+      "id": "P16-S1-1-0",
+      "operation": "16-S1",
+      "sku": "K2",
+      "hour": 11,
+      "date": "2026-08-17"
+    },
+    {
+      "id": "P17-S1-0-0",
+      "operation": "17-S1",
+      "sku": "K1",
+      "hour": 11,
+      "date": "2026-08-18"
+    },
+    {
+      "id": "P17-S1-1-0",
+      "operation": "17-S1",
+      "sku": "K2",
+      "hour": 11,
+      "date": "2026-08-18"
+    },
+    {
+      "id": "P17-S1-1-1",
+      "operation": "17-S1",
+      "sku": "K2",
+      "hour": 12,
+      "date": "2026-08-18"
+    },
+    {
+      "id": "P17-S2-0-0",
+      "operation": "17-S2",
+      "sku": "K3",
+      "hour": 11,
+      "date": "2026-08-18"
+    },
+    {
+      "id": "P17-S3-0-0",
+      "operation": "17-S3",
+      "sku": "K2",
+      "hour": 11,
+      "date": "2026-08-18"
+    },
+    {
+      "id": "P18-S1-0-0",
+      "operation": "18-S1",
+      "sku": "K1",
+      "hour": 11,
+      "date": "2026-08-19"
+    },
+    {
+      "id": "P18-S1-0-1",
+      "operation": "18-S1",
+      "sku": "K1",
+      "hour": 12,
+      "date": "2026-08-19"
+    },
+    {
+      "id": "P18-S1-1-0",
+      "operation": "18-S1",
+      "sku": "K2",
+      "hour": 11,
+      "date": "2026-08-19"
+    },
+    {
+      "id": "P18-S1-1-1",
+      "operation": "18-S1",
+      "sku": "K2",
+      "hour": 12,
+      "date": "2026-08-19"
+    },
+    {
+      "id": "P18-S1-1-2",
+      "operation": "18-S1",
+      "sku": "K2",
+      "hour": 13,
+      "date": "2026-08-19"
+    },
+    {
+      "id": "P18-S2-0-0",
+      "operation": "18-S2",
+      "sku": "K3",
+      "hour": 11,
+      "date": "2026-08-19"
+    },
+    {
+      "id": "P18-S2-0-1",
+      "operation": "18-S2",
+      "sku": "K3",
+      "hour": 12,
+      "date": "2026-08-19"
+    },
+    {
+      "id": "P18-S3-0-0",
+      "operation": "18-S3",
+      "sku": "K2",
+      "hour": 11,
+      "date": "2026-08-19"
+    },
+    {
+      "id": "P18-S3-0-1",
+      "operation": "18-S3",
+      "sku": "K2",
+      "hour": 12,
+      "date": "2026-08-19"
+    },
+    {
+      "id": "P19-S1-0-0",
+      "operation": "19-S1",
+      "sku": "K1",
+      "hour": 11,
+      "date": "2026-08-20"
+    },
+    {
+      "id": "P19-S1-0-1",
+      "operation": "19-S1",
+      "sku": "K1",
+      "hour": 12,
+      "date": "2026-08-20"
+    },
+    {
+      "id": "P19-S1-0-2",
+      "operation": "19-S1",
+      "sku": "K1",
+      "hour": 13,
+      "date": "2026-08-20"
+    },
+    {
+      "id": "P19-S2-0-0",
+      "operation": "19-S2",
+      "sku": "K3",
+      "hour": 11,
+      "date": "2026-08-20"
+    },
+    {
+      "id": "P19-S2-0-1",
+      "operation": "19-S2",
+      "sku": "K3",
+      "hour": 12,
+      "date": "2026-08-20"
+    },
+    {
+      "id": "P19-S2-0-2",
+      "operation": "19-S2",
+      "sku": "K3",
+      "hour": 13,
+      "date": "2026-08-20"
+    },
+    {
+      "id": "P19-S3-0-0",
+      "operation": "19-S3",
+      "sku": "K2",
+      "hour": 11,
+      "date": "2026-08-20"
+    },
+    {
+      "id": "P19-S3-0-1",
+      "operation": "19-S3",
+      "sku": "K2",
+      "hour": 12,
+      "date": "2026-08-20"
+    },
+    {
+      "id": "P19-S3-0-2",
+      "operation": "19-S3",
+      "sku": "K2",
+      "hour": 13,
+      "date": "2026-08-20"
+    },
+    {
+      "id": "P20-S1-1-0",
+      "operation": "20-S1",
+      "sku": "K2",
+      "hour": 11,
+      "date": "2026-08-21"
+    },
+    {
+      "id": "P21-S1-0-0",
+      "operation": "21-S1",
+      "sku": "K1",
+      "hour": 11,
+      "date": "2026-08-22"
+    },
+    {
+      "id": "P21-S1-1-0",
+      "operation": "21-S1",
+      "sku": "K2",
+      "hour": 11,
+      "date": "2026-08-22"
+    },
+    {
+      "id": "P21-S1-1-1",
+      "operation": "21-S1",
+      "sku": "K2",
+      "hour": 12,
+      "date": "2026-08-22"
+    },
+    {
+      "id": "P21-S2-0-0",
+      "operation": "21-S2",
+      "sku": "K3",
+      "hour": 11,
+      "date": "2026-08-22"
+    },
+    {
+      "id": "P21-S3-0-0",
+      "operation": "21-S3",
+      "sku": "K2",
+      "hour": 11,
+      "date": "2026-08-22"
+    },
+    {
+      "id": "P22-S1-0-0",
+      "operation": "22-S1",
+      "sku": "K1",
+      "hour": 11,
+      "date": "2026-08-23"
+    },
+    {
+      "id": "P22-S1-0-1",
+      "operation": "22-S1",
+      "sku": "K1",
+      "hour": 12,
+      "date": "2026-08-23"
+    },
+    {
+      "id": "P22-S1-1-0",
+      "operation": "22-S1",
+      "sku": "K2",
+      "hour": 11,
+      "date": "2026-08-23"
+    },
+    {
+      "id": "P22-S1-1-1",
+      "operation": "22-S1",
+      "sku": "K2",
+      "hour": 12,
+      "date": "2026-08-23"
+    },
+    {
+      "id": "P22-S1-1-2",
+      "operation": "22-S1",
+      "sku": "K2",
+      "hour": 13,
+      "date": "2026-08-23"
+    },
+    {
+      "id": "P22-S2-0-0",
+      "operation": "22-S2",
+      "sku": "K3",
+      "hour": 11,
+      "date": "2026-08-23"
+    },
+    {
+      "id": "P22-S2-0-1",
+      "operation": "22-S2",
+      "sku": "K3",
+      "hour": 12,
+      "date": "2026-08-23"
+    },
+    {
+      "id": "P22-S3-0-0",
+      "operation": "22-S3",
+      "sku": "K2",
+      "hour": 11,
+      "date": "2026-08-23"
+    },
+    {
+      "id": "P22-S3-0-1",
+      "operation": "22-S3",
+      "sku": "K2",
+      "hour": 12,
+      "date": "2026-08-23"
+    },
+    {
+      "id": "P23-S1-0-0",
+      "operation": "23-S1",
+      "sku": "K1",
+      "hour": 11,
+      "date": "2026-08-24"
+    },
+    {
+      "id": "P23-S1-0-1",
+      "operation": "23-S1",
+      "sku": "K1",
+      "hour": 12,
+      "date": "2026-08-24"
+    },
+    {
+      "id": "P23-S1-0-2",
+      "operation": "23-S1",
+      "sku": "K1",
+      "hour": 13,
+      "date": "2026-08-24"
+    },
+    {
+      "id": "P23-S2-0-0",
+      "operation": "23-S2",
+      "sku": "K3",
+      "hour": 11,
+      "date": "2026-08-24"
+    },
+    {
+      "id": "P23-S2-0-1",
+      "operation": "23-S2",
+      "sku": "K3",
+      "hour": 12,
+      "date": "2026-08-24"
+    },
+    {
+      "id": "P23-S2-0-2",
+      "operation": "23-S2",
+      "sku": "K3",
+      "hour": 13,
+      "date": "2026-08-24"
+    },
+    {
+      "id": "P23-S3-0-0",
+      "operation": "23-S3",
+      "sku": "K2",
+      "hour": 11,
+      "date": "2026-08-24"
+    },
+    {
+      "id": "P23-S3-0-1",
+      "operation": "23-S3",
+      "sku": "K2",
+      "hour": 12,
+      "date": "2026-08-24"
+    },
+    {
+      "id": "P23-S3-0-2",
+      "operation": "23-S3",
+      "sku": "K2",
+      "hour": 13,
+      "date": "2026-08-24"
+    },
+    {
+      "id": "P24-S1-1-0",
+      "operation": "24-S1",
+      "sku": "K2",
+      "hour": 11,
+      "date": "2026-08-25"
+    },
+    {
+      "id": "P25-S1-0-0",
+      "operation": "25-S1",
+      "sku": "K1",
+      "hour": 11,
+      "date": "2026-08-26"
+    },
+    {
+      "id": "P25-S1-1-0",
+      "operation": "25-S1",
+      "sku": "K2",
+      "hour": 11,
+      "date": "2026-08-26"
+    },
+    {
+      "id": "P25-S1-1-1",
+      "operation": "25-S1",
+      "sku": "K2",
+      "hour": 12,
+      "date": "2026-08-26"
+    },
+    {
+      "id": "P25-S2-0-0",
+      "operation": "25-S2",
+      "sku": "K3",
+      "hour": 11,
+      "date": "2026-08-26"
+    },
+    {
+      "id": "P25-S3-0-0",
+      "operation": "25-S3",
+      "sku": "K2",
+      "hour": 11,
+      "date": "2026-08-26"
+    },
+    {
+      "id": "P26-S1-0-0",
+      "operation": "26-S1",
+      "sku": "K1",
+      "hour": 11,
+      "date": "2026-08-27"
+    },
+    {
+      "id": "P26-S1-0-1",
+      "operation": "26-S1",
+      "sku": "K1",
+      "hour": 12,
+      "date": "2026-08-27"
+    },
+    {
+      "id": "P26-S1-1-0",
+      "operation": "26-S1",
+      "sku": "K2",
+      "hour": 11,
+      "date": "2026-08-27"
+    },
+    {
+      "id": "P26-S1-1-1",
+      "operation": "26-S1",
+      "sku": "K2",
+      "hour": 12,
+      "date": "2026-08-27"
+    },
+    {
+      "id": "P26-S1-1-2",
+      "operation": "26-S1",
+      "sku": "K2",
+      "hour": 13,
+      "date": "2026-08-27"
+    },
+    {
+      "id": "P26-S2-0-0",
+      "operation": "26-S2",
+      "sku": "K3",
+      "hour": 11,
+      "date": "2026-08-27"
+    },
+    {
+      "id": "P26-S2-0-1",
+      "operation": "26-S2",
+      "sku": "K3",
+      "hour": 12,
+      "date": "2026-08-27"
+    },
+    {
+      "id": "P26-S3-0-0",
+      "operation": "26-S3",
+      "sku": "K2",
+      "hour": 11,
+      "date": "2026-08-27"
+    },
+    {
+      "id": "P26-S3-0-1",
+      "operation": "26-S3",
+      "sku": "K2",
+      "hour": 12,
+      "date": "2026-08-27"
+    },
+    {
+      "id": "P27-S1-0-0",
+      "operation": "27-S1",
+      "sku": "K1",
+      "hour": 11,
+      "date": "2026-08-28"
+    },
+    {
+      "id": "P27-S1-0-1",
+      "operation": "27-S1",
+      "sku": "K1",
+      "hour": 12,
+      "date": "2026-08-28"
+    },
+    {
+      "id": "P27-S1-0-2",
+      "operation": "27-S1",
+      "sku": "K1",
+      "hour": 13,
+      "date": "2026-08-28"
+    },
+    {
+      "id": "P27-S2-0-0",
+      "operation": "27-S2",
+      "sku": "K3",
+      "hour": 11,
+      "date": "2026-08-28"
+    },
+    {
+      "id": "P27-S2-0-1",
+      "operation": "27-S2",
+      "sku": "K3",
+      "hour": 12,
+      "date": "2026-08-28"
+    },
+    {
+      "id": "P27-S2-0-2",
+      "operation": "27-S2",
+      "sku": "K3",
+      "hour": 13,
+      "date": "2026-08-28"
+    },
+    {
+      "id": "P27-S3-0-0",
+      "operation": "27-S3",
+      "sku": "K2",
+      "hour": 11,
+      "date": "2026-08-28"
+    },
+    {
+      "id": "P27-S3-0-1",
+      "operation": "27-S3",
+      "sku": "K2",
+      "hour": 12,
+      "date": "2026-08-28"
+    },
+    {
+      "id": "P27-S3-0-2",
+      "operation": "27-S3",
+      "sku": "K2",
+      "hour": 13,
+      "date": "2026-08-28"
+    }
+  ],
+  "checkout": [
+    {
+      "id": "O0",
+      "take": null,
+      "sku": "K2",
+      "cash_desk": "S2",
+      "date": "2026-08-02",
+      "net": 4630
+    },
+    {
+      "id": "O1",
+      "take": "P1-S1-0-0",
+      "sku": "K1",
+      "cash_desk": "S2",
+      "date": "2026-08-03",
+      "net": 4000
+    },
+    {
+      "id": "O2",
+      "take": "P1-S1-1-0",
+      "sku": "K2",
+      "cash_desk": "S2",
+      "date": "2026-08-03",
+      "net": 4630
+    },
+    {
+      "id": "O3",
+      "take": "P1-S1-1-1",
+      "sku": "K2",
+      "cash_desk": "S2",
+      "date": "2026-08-03",
+      "net": 4630
+    },
+    {
+      "id": "O4",
+      "take": "P1-S2-0-0",
+      "sku": "K3",
+      "cash_desk": "S2",
+      "date": "2026-08-03",
+      "net": 4000
+    },
+    {
+      "id": "O5",
+      "take": "P1-S3-0-0",
+      "sku": "K2",
+      "cash_desk": "S2",
+      "date": "2026-08-03",
+      "net": 4000
+    },
+    {
+      "id": "O6",
+      "take": "P2-S1-0-0",
+      "sku": "K1",
+      "cash_desk": "S2",
+      "date": "2026-08-04",
+      "net": 4000
+    },
+    {
+      "id": "O7",
+      "take": "P2-S1-0-1",
+      "sku": "K1",
+      "cash_desk": "S2",
+      "date": "2026-08-04",
+      "net": 4000
+    },
+    {
+      "id": "O8",
+      "take": "P2-S1-1-0",
+      "sku": "K2",
+      "cash_desk": "S2",
+      "date": "2026-08-04",
+      "net": 4630
+    },
+    {
+      "id": "O9",
+      "take": "P2-S1-1-1",
+      "sku": "K2",
+      "cash_desk": "S2",
+      "date": "2026-08-04",
+      "net": 4630
+    },
+    {
+      "id": "O10",
+      "take": "P2-S1-1-2",
+      "sku": "K2",
+      "cash_desk": "S2",
+      "date": "2026-08-04",
+      "net": 4630
+    },
+    {
+      "id": "O11",
+      "take": "P2-S2-0-0",
+      "sku": "K3",
+      "cash_desk": "S2",
+      "date": "2026-08-04",
+      "net": 4000
+    },
+    {
+      "id": "O12",
+      "take": "P2-S2-0-1",
+      "sku": "K3",
+      "cash_desk": "S2",
+      "date": "2026-08-04",
+      "net": 4000
+    },
+    {
+      "id": "O13",
+      "take": "P2-S3-0-0",
+      "sku": "K2",
+      "cash_desk": "S2",
+      "date": "2026-08-04",
+      "net": 4000
+    },
+    {
+      "id": "O14",
+      "take": "P2-S3-0-1",
+      "sku": "K2",
+      "cash_desk": "S2",
+      "date": "2026-08-04",
+      "net": 4000
+    },
+    {
+      "id": "O15",
+      "take": "P3-S1-0-0",
+      "sku": "K1",
+      "cash_desk": "S2",
+      "date": "2026-08-05",
+      "net": 4000
+    },
+    {
+      "id": "O16",
+      "take": "P3-S1-0-1",
+      "sku": "K1",
+      "cash_desk": "S2",
+      "date": "2026-08-05",
+      "net": 4000
+    },
+    {
+      "id": "O17",
+      "take": "P3-S1-0-2",
+      "sku": "K1",
+      "cash_desk": "S2",
+      "date": "2026-08-05",
+      "net": 4000
+    },
+    {
+      "id": "O18",
+      "take": "P3-S2-0-0",
+      "sku": "K3",
+      "cash_desk": "S2",
+      "date": "2026-08-05",
+      "net": 4000
+    },
+    {
+      "id": "O19",
+      "take": "P3-S2-0-1",
+      "sku": "K3",
+      "cash_desk": "S2",
+      "date": "2026-08-05",
+      "net": 4000
+    },
+    {
+      "id": "O20",
+      "take": "P3-S2-0-2",
+      "sku": "K3",
+      "cash_desk": "S2",
+      "date": "2026-08-05",
+      "net": 4000
+    },
+    {
+      "id": "O21",
+      "take": "P3-S3-0-0",
+      "sku": "K2",
+      "cash_desk": "S2",
+      "date": "2026-08-05",
+      "net": 4000
+    },
+    {
+      "id": "O22",
+      "take": "P3-S3-0-1",
+      "sku": "K2",
+      "cash_desk": "S2",
+      "date": "2026-08-05",
+      "net": 4000
+    },
+    {
+      "id": "O23",
+      "take": "P3-S3-0-2",
+      "sku": "K2",
+      "cash_desk": "S2",
+      "date": "2026-08-05",
+      "net": 4000
+    },
+    {
+      "id": "O24",
+      "take": "P4-S1-1-0",
+      "sku": "K2",
+      "cash_desk": "S2",
+      "date": "2026-08-06",
+      "net": 4630
+    },
+    {
+      "id": "O25",
+      "take": null,
+      "sku": "K1",
+      "cash_desk": "S2",
+      "date": "2026-08-07",
+      "net": 4000
+    },
+    {
+      "id": "O26",
+      "take": null,
+      "sku": "K2",
+      "cash_desk": "S2",
+      "date": "2026-08-07",
+      "net": 4630
+    },
+    {
+      "id": "O27",
+      "take": null,
+      "sku": "K2",
+      "cash_desk": "S2",
+      "date": "2026-08-07",
+      "net": 4630
+    },
+    {
+      "id": "O28",
+      "take": null,
+      "sku": "K3",
+      "cash_desk": "S2",
+      "date": "2026-08-07",
+      "net": 4000
+    },
+    {
+      "id": "O29",
+      "take": null,
+      "sku": "K2",
+      "cash_desk": "S2",
+      "date": "2026-08-07",
+      "net": 4000
+    },
+    {
+      "id": "O30",
+      "take": "P6-S1-0-0",
+      "sku": "K1",
+      "cash_desk": "S2",
+      "date": "2026-08-08",
+      "net": 4000
+    },
+    {
+      "id": "O31",
+      "take": "P6-S1-0-1",
+      "sku": "K1",
+      "cash_desk": "S2",
+      "date": "2026-08-08",
+      "net": 4000
+    },
+    {
+      "id": "O32",
+      "take": "P6-S1-1-0",
+      "sku": "K2",
+      "cash_desk": "S2",
+      "date": "2026-08-08",
+      "net": 4630
+    },
+    {
+      "id": "O33",
+      "take": "P6-S1-1-1",
+      "sku": "K2",
+      "cash_desk": "S2",
+      "date": "2026-08-08",
+      "net": 4630
+    },
+    {
+      "id": "O34",
+      "take": "P6-S1-1-2",
+      "sku": "K2",
+      "cash_desk": "S2",
+      "date": "2026-08-08",
+      "net": 4630
+    },
+    {
+      "id": "O35",
+      "take": "P6-S2-0-0",
+      "sku": "K3",
+      "cash_desk": "S2",
+      "date": "2026-08-08",
+      "net": 4000
+    },
+    {
+      "id": "O36",
+      "take": "P6-S2-0-1",
+      "sku": "K3",
+      "cash_desk": "S2",
+      "date": "2026-08-08",
+      "net": 4000
+    },
+    {
+      "id": "O37",
+      "take": "P6-S3-0-0",
+      "sku": "K2",
+      "cash_desk": "S2",
+      "date": "2026-08-08",
+      "net": 4000
+    },
+    {
+      "id": "O38",
+      "take": "P6-S3-0-1",
+      "sku": "K2",
+      "cash_desk": "S2",
+      "date": "2026-08-08",
+      "net": 4000
+    },
+    {
+      "id": "O39",
+      "take": "P7-S1-0-0",
+      "sku": "K1",
+      "cash_desk": "S2",
+      "date": "2026-08-09",
+      "net": 4000
+    },
+    {
+      "id": "O40",
+      "take": "P7-S1-0-1",
+      "sku": "K1",
+      "cash_desk": "S2",
+      "date": "2026-08-09",
+      "net": 4000
+    },
+    {
+      "id": "O41",
+      "take": "P7-S1-0-2",
+      "sku": "K1",
+      "cash_desk": "S2",
+      "date": "2026-08-09",
+      "net": 4000
+    },
+    {
+      "id": "O42",
+      "take": "P7-S2-0-0",
+      "sku": "K3",
+      "cash_desk": "S2",
+      "date": "2026-08-09",
+      "net": 4000
+    },
+    {
+      "id": "O43",
+      "take": "P7-S2-0-1",
+      "sku": "K3",
+      "cash_desk": "S2",
+      "date": "2026-08-09",
+      "net": 4000
+    },
+    {
+      "id": "O44",
+      "take": "P7-S2-0-2",
+      "sku": "K3",
+      "cash_desk": "S2",
+      "date": "2026-08-09",
+      "net": 4000
+    },
+    {
+      "id": "O45",
+      "take": "P7-S3-0-0",
+      "sku": "K2",
+      "cash_desk": "S2",
+      "date": "2026-08-09",
+      "net": 4000
+    },
+    {
+      "id": "O46",
+      "take": "P7-S3-0-1",
+      "sku": "K2",
+      "cash_desk": "S2",
+      "date": "2026-08-09",
+      "net": 4000
+    },
+    {
+      "id": "O47",
+      "take": "P7-S3-0-2",
+      "sku": "K2",
+      "cash_desk": "S2",
+      "date": "2026-08-09",
+      "net": 4000
+    },
+    {
+      "id": "O48",
+      "take": "P8-S1-1-0",
+      "sku": "K2",
+      "cash_desk": "S2",
+      "date": "2026-08-10",
+      "net": 4630
+    },
+    {
+      "id": "O49",
+      "take": "P9-S1-0-0",
+      "sku": "K1",
+      "cash_desk": "S2",
+      "date": "2026-08-11",
+      "net": 4000
+    },
+    {
+      "id": "O50",
+      "take": "P9-S1-1-0",
+      "sku": "K2",
+      "cash_desk": "S2",
+      "date": "2026-08-11",
+      "net": 4630
+    },
+    {
+      "id": "O51",
+      "take": "P9-S1-1-1",
+      "sku": "K2",
+      "cash_desk": "S2",
+      "date": "2026-08-11",
+      "net": 4630
+    },
+    {
+      "id": "O52",
+      "take": "P9-S2-0-0",
+      "sku": "K3",
+      "cash_desk": "S2",
+      "date": "2026-08-11",
+      "net": 4000
+    },
+    {
+      "id": "O53",
+      "take": "P9-S3-0-0",
+      "sku": "K2",
+      "cash_desk": "S2",
+      "date": "2026-08-11",
+      "net": 4000
+    },
+    {
+      "id": "O54",
+      "take": null,
+      "sku": "K1",
+      "cash_desk": "S2",
+      "date": "2026-08-12",
+      "net": 4000
+    },
+    {
+      "id": "O55",
+      "take": null,
+      "sku": "K1",
+      "cash_desk": "S2",
+      "date": "2026-08-12",
+      "net": 4000
+    },
+    {
+      "id": "O56",
+      "take": null,
+      "sku": "K2",
+      "cash_desk": "S2",
+      "date": "2026-08-12",
+      "net": 4630
+    },
+    {
+      "id": "O57",
+      "take": null,
+      "sku": "K2",
+      "cash_desk": "S2",
+      "date": "2026-08-12",
+      "net": 4630
+    },
+    {
+      "id": "O58",
+      "take": null,
+      "sku": "K2",
+      "cash_desk": "S2",
+      "date": "2026-08-12",
+      "net": 4630
+    },
+    {
+      "id": "O59",
+      "take": null,
+      "sku": "K3",
+      "cash_desk": "S2",
+      "date": "2026-08-12",
+      "net": 4000
+    },
+    {
+      "id": "O60",
+      "take": null,
+      "sku": "K3",
+      "cash_desk": "S2",
+      "date": "2026-08-12",
+      "net": 4000
+    },
+    {
+      "id": "O61",
+      "take": null,
+      "sku": "K2",
+      "cash_desk": "S2",
+      "date": "2026-08-12",
+      "net": 4000
+    },
+    {
+      "id": "O62",
+      "take": null,
+      "sku": "K2",
+      "cash_desk": "S2",
+      "date": "2026-08-12",
+      "net": 4000
+    },
+    {
+      "id": "O63",
+      "take": "P11-S1-0-0",
+      "sku": "K1",
+      "cash_desk": "S2",
+      "date": "2026-08-13",
+      "net": 4000
+    },
+    {
+      "id": "O64",
+      "take": "P11-S1-0-1",
+      "sku": "K1",
+      "cash_desk": "S2",
+      "date": "2026-08-13",
+      "net": 4000
+    },
+    {
+      "id": "O65",
+      "take": "P11-S1-0-2",
+      "sku": "K1",
+      "cash_desk": "S2",
+      "date": "2026-08-13",
+      "net": 4000
+    },
+    {
+      "id": "O66",
+      "take": "P11-S2-0-0",
+      "sku": "K3",
+      "cash_desk": "S2",
+      "date": "2026-08-13",
+      "net": 4000
+    },
+    {
+      "id": "O67",
+      "take": "P11-S2-0-1",
+      "sku": "K3",
+      "cash_desk": "S2",
+      "date": "2026-08-13",
+      "net": 4000
+    },
+    {
+      "id": "O68",
+      "take": "P11-S2-0-2",
+      "sku": "K3",
+      "cash_desk": "S2",
+      "date": "2026-08-13",
+      "net": 4000
+    },
+    {
+      "id": "O69",
+      "take": "P11-S3-0-0",
+      "sku": "K2",
+      "cash_desk": "S2",
+      "date": "2026-08-13",
+      "net": 4000
+    },
+    {
+      "id": "O70",
+      "take": "P11-S3-0-1",
+      "sku": "K2",
+      "cash_desk": "S2",
+      "date": "2026-08-13",
+      "net": 4000
+    },
+    {
+      "id": "O71",
+      "take": "P11-S3-0-2",
+      "sku": "K2",
+      "cash_desk": "S2",
+      "date": "2026-08-13",
+      "net": 4000
+    },
+    {
+      "id": "O72",
+      "take": "P12-S1-1-0",
+      "sku": "K2",
+      "cash_desk": "S2",
+      "date": "2026-08-14",
+      "net": 4630
+    },
+    {
+      "id": "O73",
+      "take": "P13-S1-0-0",
+      "sku": "K1",
+      "cash_desk": "S2",
+      "date": "2026-08-15",
+      "net": 4000
+    },
+    {
+      "id": "O74",
+      "take": "P13-S1-1-0",
+      "sku": "K2",
+      "cash_desk": "S2",
+      "date": "2026-08-15",
+      "net": 4630
+    },
+    {
+      "id": "O75",
+      "take": "P13-S1-1-1",
+      "sku": "K2",
+      "cash_desk": "S2",
+      "date": "2026-08-15",
+      "net": 4630
+    },
+    {
+      "id": "O76",
+      "take": "P13-S2-0-0",
+      "sku": "K3",
+      "cash_desk": "S2",
+      "date": "2026-08-15",
+      "net": 4000
+    },
+    {
+      "id": "O77",
+      "take": "P13-S3-0-0",
+      "sku": "K2",
+      "cash_desk": "S2",
+      "date": "2026-08-15",
+      "net": 4000
+    },
+    {
+      "id": "O78",
+      "take": "P14-S1-0-0",
+      "sku": "K1",
+      "cash_desk": "S2",
+      "date": "2026-08-16",
+      "net": 4000
+    },
+    {
+      "id": "O79",
+      "take": "P14-S1-0-1",
+      "sku": "K1",
+      "cash_desk": "S2",
+      "date": "2026-08-16",
+      "net": 4000
+    },
+    {
+      "id": "O80",
+      "take": "P14-S1-1-0",
+      "sku": "K2",
+      "cash_desk": "S2",
+      "date": "2026-08-16",
+      "net": 4630
+    },
+    {
+      "id": "O81",
+      "take": "P14-S1-1-1",
+      "sku": "K2",
+      "cash_desk": "S2",
+      "date": "2026-08-16",
+      "net": 4630
+    },
+    {
+      "id": "O82",
+      "take": "P14-S1-1-2",
+      "sku": "K2",
+      "cash_desk": "S2",
+      "date": "2026-08-16",
+      "net": 4630
+    },
+    {
+      "id": "O83",
+      "take": "P14-S2-0-0",
+      "sku": "K3",
+      "cash_desk": "S2",
+      "date": "2026-08-16",
+      "net": 4000
+    },
+    {
+      "id": "O84",
+      "take": "P14-S2-0-1",
+      "sku": "K3",
+      "cash_desk": "S2",
+      "date": "2026-08-16",
+      "net": 4000
+    },
+    {
+      "id": "O85",
+      "take": "P14-S3-0-0",
+      "sku": "K2",
+      "cash_desk": "S2",
+      "date": "2026-08-16",
+      "net": 4000
+    },
+    {
+      "id": "O86",
+      "take": "P14-S3-0-1",
+      "sku": "K2",
+      "cash_desk": "S2",
+      "date": "2026-08-16",
+      "net": 4000
+    },
+    {
+      "id": "O87",
+      "take": null,
+      "sku": "K1",
+      "cash_desk": "S2",
+      "date": "2026-08-17",
+      "net": 4000
+    },
+    {
+      "id": "O88",
+      "take": null,
+      "sku": "K1",
+      "cash_desk": "S2",
+      "date": "2026-08-17",
+      "net": 4000
+    },
+    {
+      "id": "O89",
+      "take": null,
+      "sku": "K1",
+      "cash_desk": "S2",
+      "date": "2026-08-17",
+      "net": 4000
+    },
+    {
+      "id": "O90",
+      "take": null,
+      "sku": "K3",
+      "cash_desk": "S2",
+      "date": "2026-08-17",
+      "net": 4000
+    },
+    {
+      "id": "O91",
+      "take": null,
+      "sku": "K3",
+      "cash_desk": "S2",
+      "date": "2026-08-17",
+      "net": 4000
+    },
+    {
+      "id": "O92",
+      "take": null,
+      "sku": "K3",
+      "cash_desk": "S2",
+      "date": "2026-08-17",
+      "net": 4000
+    },
+    {
+      "id": "O93",
+      "take": null,
+      "sku": "K2",
+      "cash_desk": "S2",
+      "date": "2026-08-17",
+      "net": 4000
+    },
+    {
+      "id": "O94",
+      "take": null,
+      "sku": "K2",
+      "cash_desk": "S2",
+      "date": "2026-08-17",
+      "net": 4000
+    },
+    {
+      "id": "O95",
+      "take": null,
+      "sku": "K2",
+      "cash_desk": "S2",
+      "date": "2026-08-17",
+      "net": 4000
+    },
+    {
+      "id": "O96",
+      "take": "P16-S1-1-0",
+      "sku": "K2",
+      "cash_desk": "S2",
+      "date": "2026-08-18",
+      "net": 4630
+    },
+    {
+      "id": "O97",
+      "take": "P17-S1-0-0",
+      "sku": "K1",
+      "cash_desk": "S2",
+      "date": "2026-08-19",
+      "net": 4000
+    },
+    {
+      "id": "O98",
+      "take": "P17-S1-1-0",
+      "sku": "K2",
+      "cash_desk": "S2",
+      "date": "2026-08-19",
+      "net": 4630
+    },
+    {
+      "id": "O99",
+      "take": "P17-S1-1-1",
+      "sku": "K2",
+      "cash_desk": "S2",
+      "date": "2026-08-19",
+      "net": 4630
+    },
+    {
+      "id": "O100",
+      "take": "P17-S2-0-0",
+      "sku": "K3",
+      "cash_desk": "S2",
+      "date": "2026-08-19",
+      "net": 4000
+    },
+    {
+      "id": "O101",
+      "take": "P17-S3-0-0",
+      "sku": "K2",
+      "cash_desk": "S2",
+      "date": "2026-08-19",
+      "net": 4000
+    },
+    {
+      "id": "O102",
+      "take": "P18-S1-0-0",
+      "sku": "K1",
+      "cash_desk": "S2",
+      "date": "2026-08-20",
+      "net": 4000
+    },
+    {
+      "id": "O103",
+      "take": "P18-S1-0-1",
+      "sku": "K1",
+      "cash_desk": "S2",
+      "date": "2026-08-20",
+      "net": 4000
+    },
+    {
+      "id": "O104",
+      "take": "P18-S1-1-0",
+      "sku": "K2",
+      "cash_desk": "S2",
+      "date": "2026-08-20",
+      "net": 4630
+    },
+    {
+      "id": "O105",
+      "take": "P18-S1-1-1",
+      "sku": "K2",
+      "cash_desk": "S2",
+      "date": "2026-08-20",
+      "net": 4630
+    },
+    {
+      "id": "O106",
+      "take": "P18-S1-1-2",
+      "sku": "K2",
+      "cash_desk": "S2",
+      "date": "2026-08-20",
+      "net": 4630
+    },
+    {
+      "id": "O107",
+      "take": "P18-S2-0-0",
+      "sku": "K3",
+      "cash_desk": "S2",
+      "date": "2026-08-20",
+      "net": 4000
+    },
+    {
+      "id": "O108",
+      "take": "P18-S2-0-1",
+      "sku": "K3",
+      "cash_desk": "S2",
+      "date": "2026-08-20",
+      "net": 4000
+    },
+    {
+      "id": "O109",
+      "take": "P18-S3-0-0",
+      "sku": "K2",
+      "cash_desk": "S2",
+      "date": "2026-08-20",
+      "net": 4000
+    },
+    {
+      "id": "O110",
+      "take": "P18-S3-0-1",
+      "sku": "K2",
+      "cash_desk": "S2",
+      "date": "2026-08-20",
+      "net": 4000
+    },
+    {
+      "id": "O111",
+      "take": "P19-S1-0-0",
+      "sku": "K1",
+      "cash_desk": "S2",
+      "date": "2026-08-21",
+      "net": 4000
+    },
+    {
+      "id": "O112",
+      "take": "P19-S1-0-1",
+      "sku": "K1",
+      "cash_desk": "S2",
+      "date": "2026-08-21",
+      "net": 4000
+    },
+    {
+      "id": "O113",
+      "take": "P19-S1-0-2",
+      "sku": "K1",
+      "cash_desk": "S2",
+      "date": "2026-08-21",
+      "net": 4000
+    },
+    {
+      "id": "O114",
+      "take": "P19-S2-0-0",
+      "sku": "K3",
+      "cash_desk": "S2",
+      "date": "2026-08-21",
+      "net": 4000
+    },
+    {
+      "id": "O115",
+      "take": "P19-S2-0-1",
+      "sku": "K3",
+      "cash_desk": "S2",
+      "date": "2026-08-21",
+      "net": 4000
+    },
+    {
+      "id": "O116",
+      "take": "P19-S2-0-2",
+      "sku": "K3",
+      "cash_desk": "S2",
+      "date": "2026-08-21",
+      "net": 4000
+    },
+    {
+      "id": "O117",
+      "take": "P19-S3-0-0",
+      "sku": "K2",
+      "cash_desk": "S2",
+      "date": "2026-08-21",
+      "net": 4000
+    },
+    {
+      "id": "O118",
+      "take": "P19-S3-0-1",
+      "sku": "K2",
+      "cash_desk": "S2",
+      "date": "2026-08-21",
+      "net": 4000
+    },
+    {
+      "id": "O119",
+      "take": "P19-S3-0-2",
+      "sku": "K2",
+      "cash_desk": "S2",
+      "date": "2026-08-21",
+      "net": 4000
+    },
+    {
+      "id": "O120",
+      "take": null,
+      "sku": "K2",
+      "cash_desk": "S2",
+      "date": "2026-08-22",
+      "net": 4630
+    },
+    {
+      "id": "O121",
+      "take": "P21-S1-0-0",
+      "sku": "K1",
+      "cash_desk": "S2",
+      "date": "2026-08-23",
+      "net": 4000
+    },
+    {
+      "id": "O122",
+      "take": "P21-S1-1-0",
+      "sku": "K2",
+      "cash_desk": "S2",
+      "date": "2026-08-23",
+      "net": 4630
+    },
+    {
+      "id": "O123",
+      "take": "P21-S1-1-1",
+      "sku": "K2",
+      "cash_desk": "S2",
+      "date": "2026-08-23",
+      "net": 4630
+    },
+    {
+      "id": "O124",
+      "take": "P21-S2-0-0",
+      "sku": "K3",
+      "cash_desk": "S2",
+      "date": "2026-08-23",
+      "net": 4000
+    },
+    {
+      "id": "O125",
+      "take": "P21-S3-0-0",
+      "sku": "K2",
+      "cash_desk": "S2",
+      "date": "2026-08-23",
+      "net": 4000
+    },
+    {
+      "id": "O126",
+      "take": "P22-S1-0-0",
+      "sku": "K1",
+      "cash_desk": "S2",
+      "date": "2026-08-24",
+      "net": 4000
+    },
+    {
+      "id": "O127",
+      "take": "P22-S1-0-1",
+      "sku": "K1",
+      "cash_desk": "S2",
+      "date": "2026-08-24",
+      "net": 4000
+    },
+    {
+      "id": "O128",
+      "take": "P22-S1-1-0",
+      "sku": "K2",
+      "cash_desk": "S2",
+      "date": "2026-08-24",
+      "net": 4630
+    },
+    {
+      "id": "O129",
+      "take": "P22-S1-1-1",
+      "sku": "K2",
+      "cash_desk": "S2",
+      "date": "2026-08-24",
+      "net": 4630
+    },
+    {
+      "id": "O130",
+      "take": "P22-S1-1-2",
+      "sku": "K2",
+      "cash_desk": "S2",
+      "date": "2026-08-24",
+      "net": 4630
+    },
+    {
+      "id": "O131",
+      "take": "P22-S2-0-0",
+      "sku": "K3",
+      "cash_desk": "S2",
+      "date": "2026-08-24",
+      "net": 4000
+    },
+    {
+      "id": "O132",
+      "take": "P22-S2-0-1",
+      "sku": "K3",
+      "cash_desk": "S2",
+      "date": "2026-08-24",
+      "net": 4000
+    },
+    {
+      "id": "O133",
+      "take": "P22-S3-0-0",
+      "sku": "K2",
+      "cash_desk": "S2",
+      "date": "2026-08-24",
+      "net": 4000
+    },
+    {
+      "id": "O134",
+      "take": "P22-S3-0-1",
+      "sku": "K2",
+      "cash_desk": "S2",
+      "date": "2026-08-24",
+      "net": 4000
+    },
+    {
+      "id": "O135",
+      "take": "P23-S1-0-0",
+      "sku": "K1",
+      "cash_desk": "S2",
+      "date": "2026-08-25",
+      "net": 4000
+    },
+    {
+      "id": "O136",
+      "take": "P23-S1-0-1",
+      "sku": "K1",
+      "cash_desk": "S2",
+      "date": "2026-08-25",
+      "net": 4000
+    },
+    {
+      "id": "O137",
+      "take": "P23-S1-0-2",
+      "sku": "K1",
+      "cash_desk": "S2",
+      "date": "2026-08-25",
+      "net": 4000
+    },
+    {
+      "id": "O138",
+      "take": "P23-S2-0-0",
+      "sku": "K3",
+      "cash_desk": "S2",
+      "date": "2026-08-25",
+      "net": 4000
+    },
+    {
+      "id": "O139",
+      "take": "P23-S2-0-1",
+      "sku": "K3",
+      "cash_desk": "S2",
+      "date": "2026-08-25",
+      "net": 4000
+    },
+    {
+      "id": "O140",
+      "take": "P23-S2-0-2",
+      "sku": "K3",
+      "cash_desk": "S2",
+      "date": "2026-08-25",
+      "net": 4000
+    },
+    {
+      "id": "O141",
+      "take": "P23-S3-0-0",
+      "sku": "K2",
+      "cash_desk": "S2",
+      "date": "2026-08-25",
+      "net": 4000
+    },
+    {
+      "id": "O142",
+      "take": "P23-S3-0-1",
+      "sku": "K2",
+      "cash_desk": "S2",
+      "date": "2026-08-25",
+      "net": 4000
+    },
+    {
+      "id": "O143",
+      "take": "P23-S3-0-2",
+      "sku": "K2",
+      "cash_desk": "S2",
+      "date": "2026-08-25",
+      "net": 4000
+    },
+    {
+      "id": "O144",
+      "take": "P24-S1-1-0",
+      "sku": "K2",
+      "cash_desk": "S2",
+      "date": "2026-08-26",
+      "net": 4630
+    },
+    {
+      "id": "O145",
+      "take": null,
+      "sku": "K1",
+      "cash_desk": "S2",
+      "date": "2026-08-27",
+      "net": 4000
+    },
+    {
+      "id": "O146",
+      "take": null,
+      "sku": "K2",
+      "cash_desk": "S2",
+      "date": "2026-08-27",
+      "net": 4630
+    },
+    {
+      "id": "O147",
+      "take": null,
+      "sku": "K2",
+      "cash_desk": "S2",
+      "date": "2026-08-27",
+      "net": 4630
+    },
+    {
+      "id": "O148",
+      "take": null,
+      "sku": "K3",
+      "cash_desk": "S2",
+      "date": "2026-08-27",
+      "net": 4000
+    },
+    {
+      "id": "O149",
+      "take": null,
+      "sku": "K2",
+      "cash_desk": "S2",
+      "date": "2026-08-27",
+      "net": 4000
+    },
+    {
+      "id": "O150",
+      "take": "P26-S1-0-0",
+      "sku": "K1",
+      "cash_desk": "S2",
+      "date": "2026-08-28",
+      "net": 4000
+    },
+    {
+      "id": "O151",
+      "take": "P26-S1-0-1",
+      "sku": "K1",
+      "cash_desk": "S2",
+      "date": "2026-08-28",
+      "net": 4000
+    },
+    {
+      "id": "O152",
+      "take": "P26-S1-1-0",
+      "sku": "K2",
+      "cash_desk": "S2",
+      "date": "2026-08-28",
+      "net": 4630
+    },
+    {
+      "id": "O153",
+      "take": "P26-S1-1-1",
+      "sku": "K2",
+      "cash_desk": "S2",
+      "date": "2026-08-28",
+      "net": 4630
+    },
+    {
+      "id": "O154",
+      "take": "P26-S1-1-2",
+      "sku": "K2",
+      "cash_desk": "S2",
+      "date": "2026-08-28",
+      "net": 4630
+    },
+    {
+      "id": "O155",
+      "take": "P26-S2-0-0",
+      "sku": "K3",
+      "cash_desk": "S2",
+      "date": "2026-08-28",
+      "net": 4000
+    },
+    {
+      "id": "O156",
+      "take": "P26-S2-0-1",
+      "sku": "K3",
+      "cash_desk": "S2",
+      "date": "2026-08-28",
+      "net": 4000
+    },
+    {
+      "id": "O157",
+      "take": "P26-S3-0-0",
+      "sku": "K2",
+      "cash_desk": "S2",
+      "date": "2026-08-28",
+      "net": 4000
+    },
+    {
+      "id": "O158",
+      "take": "P26-S3-0-1",
+      "sku": "K2",
+      "cash_desk": "S2",
+      "date": "2026-08-28",
+      "net": 4000
+    },
+    {
+      "id": "O159",
+      "take": "P27-S1-0-0",
+      "sku": "K1",
+      "cash_desk": "S2",
+      "date": "2026-08-29",
+      "net": 4000
+    },
+    {
+      "id": "O160",
+      "take": "P27-S1-0-1",
+      "sku": "K1",
+      "cash_desk": "S2",
+      "date": "2026-08-29",
+      "net": 4000
+    },
+    {
+      "id": "O161",
+      "take": "P27-S1-0-2",
+      "sku": "K1",
+      "cash_desk": "S2",
+      "date": "2026-08-29",
+      "net": 4000
+    },
+    {
+      "id": "O162",
+      "take": "P27-S2-0-0",
+      "sku": "K3",
+      "cash_desk": "S2",
+      "date": "2026-08-29",
+      "net": 4000
+    },
+    {
+      "id": "O163",
+      "take": "P27-S2-0-1",
+      "sku": "K3",
+      "cash_desk": "S2",
+      "date": "2026-08-29",
+      "net": 4000
+    },
+    {
+      "id": "O164",
+      "take": "P27-S2-0-2",
+      "sku": "K3",
+      "cash_desk": "S2",
+      "date": "2026-08-29",
+      "net": 4000
+    },
+    {
+      "id": "O165",
+      "take": "P27-S3-0-0",
+      "sku": "K2",
+      "cash_desk": "S2",
+      "date": "2026-08-29",
+      "net": 4000
+    },
+    {
+      "id": "O166",
+      "take": "P27-S3-0-1",
+      "sku": "K2",
+      "cash_desk": "S2",
+      "date": "2026-08-29",
+      "net": 4000
+    },
+    {
+      "id": "O167",
+      "take": "P27-S3-0-2",
+      "sku": "K2",
+      "cash_desk": "S2",
+      "date": "2026-08-29",
+      "net": 4000
+    }
+  ],
+  "holds": [
+    {
+      "cabinet": "S1",
+      "date": "2026-08-04",
+      "from_hour": 13,
+      "to_hour": 16,
+      "kind": "讲解",
+      "scheduled_on": "2026-08-01"
+    },
+    {
+      "cabinet": "S3",
+      "date": "2026-08-21",
+      "from_hour": 11,
+      "to_hour": 13,
+      "kind": "讲解",
+      "scheduled_on": "2026-08-20"
+    },
+    {
+      "cabinet": "S1",
+      "date": "2026-09-02",
+      "from_hour": 10,
+      "to_hour": 15,
+      "kind": "讲解",
+      "scheduled_on": "2026-08-23"
+    },
+    {
+      "cabinet": "S2",
+      "date": "2026-09-02",
+      "from_hour": 9,
+      "to_hour": 17,
+      "kind": "闭馆",
+      "scheduled_on": "2026-08-25"
+    }
+  ],
+  "bridges": [
+    {
+      "old_cab": "S1",
+      "new_cab": "S1",
+      "supported": true
+    },
+    {
+      "old_cab": "S2",
+      "new_cab": "S2",
+      "supported": false
+    },
+    {
+      "old_cab": "S2",
+      "new_cab": "S3",
+      "supported": false
+    },
+    {
+      "old_cab": "S3",
+      "new_cab": "S3",
+      "supported": true
+    }
+  ],
+  "promise": [
+    {
+      "id": "A1",
+      "studio": "甲",
+      "cabinet": "S1",
+      "date": "2026-09-02",
+      "from_hour": 9,
+      "to_hour": 17,
+      "min_cm2_hour": 29000,
+      "confirmed_on": "2026-08-22"
+    },
+    {
+      "id": "A2",
+      "studio": "丙",
+      "cabinet": "S2",
+      "date": "2026-09-02",
+      "from_hour": 9,
+      "to_hour": 17,
+      "min_cm2_hour": 40000,
+      "confirmed_on": "2026-08-22"
+    },
+    {
+      "id": "A3",
+      "studio": "乙",
+      "cabinet": "S3",
+      "date": "2026-09-02",
+      "from_hour": 9,
+      "to_hour": 17,
+      "min_cm2_hour": 24000,
+      "confirmed_on": "2026-08-24"
+    }
+  ],
+  "candidate": [
+    {
+      "plan": "P1",
+      "cabinet": "S1",
+      "studio": "甲",
+      "date": "2026-09-02",
+      "from_hour": 9,
+      "to_hour": 17,
+      "cm2": 4500,
+      "fee": 3600
+    },
+    {
+      "plan": "P1",
+      "cabinet": "S1",
+      "studio": "乙",
+      "date": "2026-09-02",
+      "from_hour": 9,
+      "to_hour": 17,
+      "cm2": 4300,
+      "fee": 3500
+    },
+    {
+      "plan": "P1",
+      "cabinet": "S3",
+      "studio": "丙",
+      "date": "2026-09-02",
+      "from_hour": 9,
+      "to_hour": 17,
+      "cm2": 6800,
+      "fee": 4800
+    },
+    {
+      "plan": "P2",
+      "cabinet": "S1",
+      "studio": "甲",
+      "date": "2026-09-02",
+      "from_hour": 9,
+      "to_hour": 17,
+      "cm2": 8000,
+      "fee": 4400
+    },
+    {
+      "plan": "P2",
+      "cabinet": "S3",
+      "studio": "丙",
+      "date": "2026-09-02",
+      "from_hour": 9,
+      "to_hour": 17,
+      "cm2": 5500,
+      "fee": 3200
+    },
+    {
+      "plan": "P2",
+      "cabinet": "S3",
+      "studio": "乙",
+      "date": "2026-09-02",
+      "from_hour": 9,
+      "to_hour": 17,
+      "cm2": 4600,
+      "fee": 3700
+    }
+  ]
+}
